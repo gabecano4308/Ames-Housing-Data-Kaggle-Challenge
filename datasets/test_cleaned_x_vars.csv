@@ -1,0 +1,879 @@
+,MS SubClass,MS Zoning,Land Contour,Utilities,Lot Config,Land Slope,Neighborhood,Condition,Bldg Type,Overall Qual,Exter Qual,Bsmt Qual,BsmtFin Type 1,Total Bsmt SF,Heating QC,Gr Liv Area,Bsmt Full Bath,Bsmt Half Bath,Kitchen Qual,TotRms AbvGrd,Garage Area,Paved Drive,Sale Type,tot_baths,tot_bed_bath,tot_liv_area
+0,190,RM,Lvl,AllPub,Inside,Gtl,OldTown,Norm,2fmCon,6,3,2.0,Unf,1020,Gd,1928,0,0,2,9,440,Y,WD ,2.0,6.0,2948
+1,90,RL,Lvl,AllPub,Inside,Gtl,Sawyer,Norm,Duplex,5,3,4.0,Unf,1967,TA,1967,0,0,3,10,580,Y,WD ,2.0,8.0,3934
+2,60,RL,Lvl,AllPub,Inside,Gtl,Gilbert,Norm,1Fam,7,4,4.0,GLQ,654,Ex,1496,1,0,4,7,426,Y,New,2.5,5.5,2150
+3,30,RM,Lvl,AllPub,Inside,Gtl,OldTown,Norm,1Fam,5,4,3.0,Unf,968,TA,968,0,0,3,5,480,N,WD ,1.0,3.0,1936
+4,20,RL,Lvl,AllPub,Inside,Gtl,NAmes,Norm,1Fam,6,3,4.0,BLQ,1394,Gd,1394,1,0,3,6,514,Y,WD ,1.5,4.5,2788
+5,160,RM,Lvl,AllPub,Inside,Gtl,MeadowV,Norm,TwnhsE,4,3,3.0,Rec,546,TA,1092,0,0,3,5,286,Y,WD ,1.5,4.5,1638
+6,20,RM,Lvl,AllPub,Inside,Gtl,OldTown,Norm,1Fam,4,3,3.0,Unf,869,TA,1093,0,0,3,5,308,Y,WD ,1.0,3.0,1962
+7,20,RL,Lvl,AllPub,CulDSac,Mod,CollgCr,Norm,1Fam,5,3,4.0,ALQ,1268,TA,1268,0,0,4,5,252,Y,WD ,1.5,4.5,2536
+8,160,FV,Lvl,AllPub,Inside,Gtl,Somerst,Norm,TwnhsE,7,4,4.0,Unf,840,Ex,1680,0,0,4,3,588,Y,WD ,2.5,4.5,2520
+9,20,RL,Lvl,AllPub,Inside,Gtl,Mitchel,Norm,1Fam,6,3,3.0,ALQ,1196,TA,1279,0,1,3,6,473,Y,WD ,2.0,5.0,2475
+10,120,RL,Lvl,AllPub,Inside,Gtl,SawyerW,Norm,TwnhsE,6,4,4.0,GLQ,1217,Gd,1217,0,0,4,5,484,Y,WD ,2.0,4.0,2434
+11,30,RM,Lvl,AllPub,Corner,Gtl,IDOTRR,Norm,1Fam,6,3,3.0,Unf,1040,Gd,1040,0,0,3,5,320,Y,WD ,1.0,3.0,2080
+12,20,RL,Lvl,AllPub,Inside,Gtl,NAmes,Norm,1Fam,6,3,3.0,Unf,1367,Ex,1375,0,0,3,5,451,Y,WD ,1.0,3.0,2742
+13,90,RL,Lvl,AllPub,Inside,Gtl,SawyerW,Street,Duplex,7,3,5.0,GLQ,1168,Ex,2787,2,0,3,8,820,Y,WD ,5.0,11.0,3955
+14,70,RL,Bnk,AllPub,Inside,Gtl,BrkSide,Norm,1Fam,6,3,3.0,Unf,848,TA,1827,0,0,3,9,240,Y,WD ,1.0,3.0,2675
+15,20,RL,Lvl,AllPub,Inside,Gtl,Edwards,Street,1Fam,5,3,0.0,Na,0,Ex,1340,0,0,3,7,252,Y,WD ,1.0,4.0,1340
+16,190,RM,Lvl,AllPub,Inside,Gtl,OldTown,Norm,2fmCon,6,3,3.0,BLQ,884,TA,1436,0,0,3,8,828,Y,Con,2.0,5.0,2320
+17,20,RL,Lvl,AllPub,Inside,Gtl,Edwards,Norm,1Fam,5,3,3.0,Rec,1073,TA,1073,1,0,3,5,340,Y,WD ,1.0,3.0,2146
+18,20,RL,Lvl,AllPub,Inside,Gtl,NAmes,Pos,1Fam,6,3,3.0,Rec,1313,TA,1773,1,0,3,6,418,Y,WD ,2.0,5.0,3086
+19,70,RM,Lvl,AllPub,Corner,Gtl,OldTown,Street,1Fam,8,4,3.0,BLQ,916,Gd,1742,0,0,4,8,424,P,WD ,1.5,5.5,2658
+20,20,RL,Lvl,AllPub,Inside,Gtl,Sawyer,Norm,1Fam,5,3,3.0,Rec,1060,Ex,1060,1,0,4,6,270,Y,WD ,1.0,4.0,2120
+21,20,RL,Lvl,AllPub,Corner,Gtl,Sawyer,Street,1Fam,5,3,3.0,GLQ,864,Ex,864,1,0,3,5,732,Y,WD ,1.0,4.0,1728
+22,120,RL,Lvl,AllPub,Inside,Gtl,SawyerW,Norm,TwnhsE,6,4,4.0,LwQ,1604,Ex,1617,1,0,4,5,533,Y,WD ,2.0,4.0,3221
+23,80,RL,Low,AllPub,CulDSac,Sev,ClearCr,Norm,1Fam,6,3,3.0,ALQ,938,Ex,988,1,0,3,4,540,Y,WD ,1.0,2.0,1926
+24,20,RL,Lvl,AllPub,Corner,Gtl,SawyerW,Norm,1Fam,7,4,4.0,Unf,1218,Ex,1218,0,0,4,6,576,Y,WD ,1.5,4.5,2436
+25,20,RL,Lvl,AllPub,Inside,Gtl,CollgCr,Norm,1Fam,5,3,3.0,ALQ,864,TA,864,0,0,3,5,352,Y,WD ,1.0,4.0,1728
+26,50,RL,Lvl,AllPub,FR2,Gtl,NAmes,Street,1Fam,4,3,3.0,Unf,715,Gd,1738,0,0,3,7,368,Y,WD ,2.0,6.0,2453
+27,70,RM,Lvl,AllPub,Corner,Gtl,OldTown,Street,1Fam,5,3,2.0,Unf,636,TA,1750,0,0,5,8,240,N,WD ,1.0,4.0,2386
+28,85,RL,Lvl,AllPub,Inside,Gtl,NAmes,Street,1Fam,6,3,3.0,GLQ,936,Ex,1054,1,0,4,6,480,Y,WD ,1.0,4.0,1990
+29,50,RL,Lvl,AllPub,Inside,Gtl,BrkSide,Street,1Fam,3,3,3.0,LwQ,370,TA,670,1,0,2,4,0,N,WD ,1.0,3.0,1040
+30,20,RL,Lvl,AllPub,Inside,Gtl,NAmes,Norm,1Fam,4,3,3.0,ALQ,858,TA,858,0,0,3,4,684,Y,WD ,1.0,3.0,1716
+31,30,RM,Lvl,AllPub,Inside,Gtl,IDOTRR,Norm,1Fam,4,3,3.0,BLQ,780,TA,1208,0,0,3,5,539,Y,WD ,1.0,3.0,1988
+32,70,RM,Lvl,AllPub,Corner,Gtl,OldTown,Norm,1Fam,7,4,3.0,Unf,1240,TA,2640,0,0,4,8,864,N,WD ,1.5,5.5,3880
+33,20,RL,Lvl,AllPub,Inside,Gtl,NWAmes,Norm,1Fam,5,3,4.0,BLQ,1176,Gd,1178,0,1,4,5,439,Y,WD ,1.5,4.5,2354
+34,20,RL,Lvl,AllPub,Inside,Gtl,CollgCr,Norm,1Fam,7,4,4.0,GLQ,1492,Ex,1492,0,0,4,6,608,Y,WD ,2.0,5.0,2984
+35,60,RL,Lvl,AllPub,Inside,Gtl,Gilbert,RRA,1Fam,7,3,4.0,Unf,608,Ex,1458,0,0,4,6,454,Y,New,2.0,5.0,2066
+36,50,RM,Lvl,AllPub,Corner,Gtl,OldTown,Norm,1Fam,4,3,3.0,LwQ,1147,TA,1657,0,0,2,9,162,N,WD ,1.0,5.0,2804
+37,20,RL,Lvl,AllPub,Inside,Gtl,Sawyer,Norm,1Fam,4,2,0.0,Na,0,TA,998,0,0,3,5,460,Y,WD ,1.0,4.0,998
+38,20,RL,Lvl,AllPub,Corner,Gtl,NAmes,Norm,1Fam,5,4,3.0,Unf,105,Gd,910,0,0,4,5,414,Y,WD ,1.0,4.0,1015
+39,20,FV,Lvl,AllPub,Inside,Gtl,Somerst,Norm,1Fam,7,4,4.0,Unf,1339,Ex,1358,0,0,4,5,625,Y,COD,2.0,5.0,2697
+40,160,FV,Lvl,AllPub,Corner,Gtl,Somerst,Norm,TwnhsE,6,4,4.0,Unf,612,Ex,1224,0,0,4,4,528,Y,New,2.5,4.5,1836
+41,60,RL,Lvl,AllPub,Corner,Gtl,Gilbert,Norm,1Fam,7,4,4.0,Unf,930,Gd,1886,0,0,4,10,431,Y,WD ,2.5,6.5,2816
+42,20,RL,Lvl,AllPub,Corner,Gtl,NAmes,Norm,1Fam,5,3,3.0,Rec,1063,Gd,1327,1,0,4,7,624,Y,WD ,1.0,4.0,2390
+43,20,RL,Lvl,AllPub,Inside,Gtl,NAmes,Norm,1Fam,5,4,3.0,BLQ,1008,Ex,1363,1,0,3,6,288,Y,WD ,1.0,3.0,2371
+44,120,RL,Lvl,AllPub,Inside,Gtl,Timber,Norm,TwnhsE,7,4,4.0,GLQ,1501,Ex,1501,1,0,4,5,512,Y,WD ,2.0,4.0,3002
+45,160,RM,Lvl,AllPub,Inside,Gtl,MeadowV,Norm,Twnhs,4,3,3.0,Unf,546,TA,1344,0,0,3,6,0,Y,WD ,1.5,4.5,1890
+46,60,RL,Lvl,AllPub,Inside,Gtl,CollgCr,Norm,1Fam,7,4,4.0,GLQ,920,Ex,1786,1,0,4,6,608,Y,WD ,2.5,5.5,2706
+47,20,RH,Lvl,AllPub,Corner,Gtl,SawyerW,Norm,1Fam,5,3,3.0,BLQ,828,Gd,965,1,0,3,6,300,Y,WD ,1.0,4.0,1793
+48,20,RL,Lvl,AllPub,Inside,Gtl,NAmes,Norm,1Fam,5,3,3.0,BLQ,936,Ex,936,1,0,3,4,308,Y,WD ,1.0,3.0,1872
+49,20,RL,Lvl,AllPub,Corner,Gtl,Sawyer,Street,1Fam,5,3,3.0,ALQ,1040,Fa,1040,1,0,3,5,308,Y,WD ,1.5,4.5,2080
+50,50,RM,Lvl,AllPub,Inside,Gtl,OldTown,Norm,1Fam,5,3,3.0,LwQ,912,Gd,1248,0,0,3,6,160,Y,WD ,1.0,3.0,2160
+51,70,RM,Lvl,AllPub,Inside,Gtl,OldTown,Norm,1Fam,8,4,2.0,Unf,346,Ex,2268,0,0,4,7,624,N,WD ,3.0,6.0,2614
+52,20,RL,Lvl,AllPub,Inside,Gtl,CollgCr,Norm,1Fam,8,4,4.0,Unf,1615,Ex,1615,0,0,4,7,864,Y,WD ,2.0,5.0,3230
+53,50,RM,Lvl,AllPub,Corner,Gtl,IDOTRR,Norm,1Fam,5,3,3.0,Unf,803,Ex,1360,0,0,4,6,297,Y,WD ,1.5,3.5,2163
+54,50,RM,Lvl,AllPub,Corner,Gtl,BrkSide,Norm,1Fam,5,3,3.0,Rec,468,Gd,1142,0,0,3,6,320,Y,WD ,1.0,4.0,1610
+55,20,RL,Lvl,AllPub,Inside,Gtl,NAmes,Norm,1Fam,6,3,3.0,GLQ,1026,Gd,1026,1,0,4,5,440,Y,WD ,1.0,4.0,2052
+56,50,RL,Lvl,AllPub,Inside,Gtl,BrkSide,Norm,1Fam,7,3,3.0,Rec,1026,Ex,1820,1,0,3,8,240,N,WD ,2.0,6.0,2846
+57,20,RL,Lvl,AllPub,Inside,Gtl,NAmes,Norm,1Fam,5,3,3.0,ALQ,1024,TA,1344,1,0,3,6,484,Y,WD ,1.0,3.0,2368
+58,20,RL,Lvl,AllPub,Corner,Gtl,NWAmes,Norm,1Fam,7,3,3.0,ALQ,1176,Fa,1193,0,0,3,5,506,Y,WD ,2.0,5.0,2369
+59,60,RL,Lvl,AllPub,Inside,Gtl,CollgCr,Norm,1Fam,7,4,4.0,GLQ,992,Ex,1865,1,0,4,7,839,Y,WD ,2.5,5.5,2857
+60,20,RL,Lvl,AllPub,Inside,Gtl,NoRidge,Norm,1Fam,8,4,4.0,GLQ,1982,Ex,2006,1,0,4,5,938,Y,WD ,2.0,4.0,3988
+61,190,RL,Lvl,AllPub,Inside,Gtl,Sawyer,Street,2fmCon,5,3,3.0,BLQ,1300,Fa,1140,1,0,3,6,400,Y,WD ,1.0,4.0,2440
+62,20,RL,Lvl,AllPub,Corner,Gtl,Sawyer,Street,1Fam,5,3,3.0,Rec,1158,TA,1176,1,0,3,6,303,Y,VWD,1.0,4.0,2334
+63,60,RL,Lvl,AllPub,Inside,Gtl,NWAmes,Norm,1Fam,7,3,4.0,ALQ,825,TA,1670,0,0,3,7,464,Y,WD ,1.5,5.5,2495
+64,60,RL,Lvl,AllPub,Inside,Gtl,SawyerW,Norm,1Fam,6,4,4.0,ALQ,761,Ex,1603,0,0,4,7,484,Y,WD ,2.5,5.5,2364
+65,20,RL,Lvl,AllPub,CulDSac,Gtl,NoRidge,Norm,1Fam,8,4,4.0,BLQ,2024,Ex,2063,1,0,4,7,815,Y,WD ,2.0,5.0,4087
+66,20,RL,Lvl,AllPub,Corner,Gtl,NAmes,Norm,1Fam,4,3,3.0,BLQ,858,TA,858,0,0,3,5,0,Y,WD ,1.0,4.0,1716
+67,120,RL,Lvl,AllPub,Inside,Gtl,NridgHt,Norm,Twnhs,6,4,4.0,ALQ,1302,Ex,1302,1,0,4,5,631,Y,WD ,1.5,2.5,2604
+68,30,RH,Bnk,AllPub,Inside,Mod,Edwards,Norm,1Fam,3,3,3.0,Rec,544,Ex,774,0,0,4,6,0,Y,WD ,1.0,4.0,1318
+69,120,RM,Lvl,AllPub,Inside,Gtl,CollgCr,Norm,TwnhsE,6,4,4.0,GLQ,848,Ex,848,1,0,4,3,420,Y,WD ,1.0,2.0,1696
+70,30,RL,Lvl,AllPub,Inside,Gtl,BrkSide,Norm,1Fam,4,3,2.0,Unf,600,Gd,747,0,0,3,5,528,Y,WD ,1.0,2.0,1347
+71,60,RL,Lvl,AllPub,CulDSac,Gtl,NridgHt,Norm,1Fam,8,4,5.0,GLQ,1508,Ex,2520,1,0,5,10,640,Y,WD ,2.5,7.5,4028
+72,20,RL,Lvl,AllPub,CulDSac,Gtl,Crawfor,Norm,1Fam,6,3,3.0,LwQ,1560,TA,1560,0,0,3,6,580,Y,WD ,1.5,4.5,3120
+73,80,RL,Lvl,AllPub,FR2,Gtl,Gilbert,Norm,1Fam,7,4,4.0,Unf,384,Gd,1472,0,0,4,7,402,Y,WD ,2.5,5.5,1856
+74,20,RL,Lvl,AllPub,Inside,Gtl,NAmes,Norm,1Fam,5,3,4.0,ALQ,1043,Ex,1050,1,0,3,6,336,Y,WD ,1.5,4.5,2093
+75,80,RL,Lvl,AllPub,CulDSac,Gtl,NWAmes,Norm,1Fam,6,3,4.0,ALQ,1680,Fa,1724,1,0,3,7,480,Y,WD ,1.5,4.5,3404
+76,20,RL,Lvl,AllPub,Inside,Gtl,Mitchel,Norm,1Fam,5,3,0.0,Na,0,TA,1771,0,0,3,9,336,Y,WD ,1.0,4.0,1771
+77,20,RL,Lvl,AllPub,Inside,Gtl,NAmes,Norm,1Fam,6,3,3.0,ALQ,1135,Ex,1207,0,0,3,6,264,Y,WD ,1.5,4.5,2342
+78,20,RL,Lvl,AllPub,Inside,Gtl,NAmes,Norm,1Fam,5,3,0.0,Na,0,TA,882,0,0,3,5,294,Y,WD ,1.0,4.0,882
+79,20,RL,Lvl,AllPub,Corner,Gtl,NridgHt,Norm,1Fam,9,5,5.0,GLQ,1780,Ex,1780,1,0,5,7,816,Y,WD ,2.0,4.0,3560
+80,20,RL,Lvl,AllPub,Inside,Gtl,CollgCr,Norm,1Fam,7,4,4.0,Unf,1459,Ex,1459,0,0,4,6,527,Y,WD ,2.0,5.0,2918
+81,50,RM,HLS,AllPub,Inside,Gtl,IDOTRR,Norm,1Fam,6,3,3.0,BLQ,629,Fa,1107,0,0,3,5,625,Y,COD,1.0,3.0,1736
+82,70,RM,Lvl,AllPub,Inside,Gtl,OldTown,Norm,1Fam,5,3,3.0,Rec,687,Gd,1358,0,0,4,6,336,Y,WD ,1.5,4.5,2045
+83,70,RL,Bnk,AllPub,Inside,Gtl,Edwards,Street,1Fam,4,3,4.0,Rec,676,Gd,1436,1,0,3,6,528,Y,WD ,2.0,5.0,2112
+84,60,RL,HLS,AllPub,Inside,Mod,ClearCr,Street,1Fam,6,3,4.0,GLQ,616,Gd,1688,1,0,4,8,603,Y,WD ,2.5,6.5,2304
+85,20,RL,Lvl,AllPub,Inside,Gtl,NridgHt,Norm,1Fam,8,5,5.0,Unf,2042,Ex,2042,0,0,5,8,1390,Y,New,2.5,5.5,4084
+86,20,RL,Lvl,AllPub,Inside,Gtl,CollgCr,Norm,1Fam,5,3,3.0,ALQ,876,TA,876,1,0,3,5,484,Y,WD ,1.0,4.0,1752
+87,85,RL,Lvl,AllPub,Inside,Gtl,NWAmes,Norm,1Fam,6,3,4.0,GLQ,1232,Fa,1320,0,1,3,5,495,Y,WD ,2.0,5.0,2552
+88,20,RL,Lvl,AllPub,Corner,Gtl,Timber,Norm,1Fam,8,4,4.0,Unf,1686,TA,1707,0,0,3,6,511,Y,WD ,2.5,4.5,3393
+89,50,RL,Lvl,AllPub,Corner,Gtl,NAmes,Street,1Fam,6,3,3.0,LwQ,864,TA,1495,0,0,3,6,576,Y,COD,1.0,4.0,2359
+90,20,RL,Lvl,AllPub,Corner,Gtl,Sawyer,Norm,1Fam,5,3,3.0,ALQ,999,Gd,999,1,0,4,6,264,Y,WD ,1.0,4.0,1998
+91,50,RL,Lvl,AllPub,Inside,Gtl,Edwards,Norm,1Fam,4,3,2.0,Unf,560,Gd,1346,0,0,3,6,384,Y,WD ,1.5,3.5,1906
+92,45,RM,Lvl,AllPub,Corner,Gtl,OldTown,Norm,1Fam,6,3,4.0,Unf,827,Gd,1251,0,0,2,6,240,N,WD ,1.0,4.0,2078
+93,120,RL,HLS,AllPub,Inside,Gtl,StoneBr,Norm,TwnhsE,8,4,4.0,GLQ,1228,Gd,1228,1,0,4,5,472,Y,WD ,2.0,4.0,2456
+94,50,RM,Lvl,AllPub,Inside,Gtl,BrkSide,Norm,1Fam,5,3,3.0,Rec,728,Ex,1274,0,0,3,6,224,Y,CWD,2.0,5.0,2002
+95,70,RM,Lvl,AllPub,Inside,Gtl,OldTown,Norm,1Fam,6,3,3.0,LwQ,728,TA,1642,0,1,3,9,374,Y,WD ,1.5,5.5,2370
+96,20,RL,Lvl,AllPub,Inside,Gtl,Edwards,Norm,1Fam,5,3,3.0,Rec,1509,TA,1509,1,0,4,6,322,Y,WD ,1.0,4.0,3018
+97,120,RL,Lvl,AllPub,Inside,Gtl,NridgHt,Norm,Twnhs,8,4,4.0,GLQ,1554,Ex,1554,0,0,4,6,627,Y,CWD,2.0,4.0,3108
+98,60,RL,Lvl,AllPub,Inside,Gtl,SawyerW,Norm,1Fam,6,4,4.0,GLQ,827,Ex,1677,1,0,4,7,627,Y,WD ,2.5,5.5,2504
+99,60,RL,Lvl,AllPub,Inside,Gtl,NWAmes,Norm,1Fam,8,4,4.0,GLQ,810,Ex,1665,1,0,4,6,528,Y,WD ,2.5,5.5,2475
+100,20,RL,Lvl,AllPub,Inside,Gtl,Veenker,Norm,1Fam,8,5,4.0,GLQ,1694,Ex,1694,1,0,5,5,642,Y,WD ,2.0,4.0,3388
+101,20,RL,Lvl,AllPub,Inside,Gtl,NAmes,Norm,1Fam,6,3,3.0,Unf,998,TA,1790,0,0,3,6,540,Y,WD ,2.0,5.0,2788
+102,20,RL,Lvl,AllPub,CulDSac,Gtl,Mitchel,Norm,1Fam,5,3,3.0,ALQ,876,TA,923,1,0,3,5,264,Y,WD ,1.0,4.0,1799
+103,20,RL,HLS,AllPub,Inside,Mod,NridgHt,Norm,1Fam,10,5,5.0,GLQ,2535,Ex,2470,2,0,5,7,789,Y,WD ,1.5,2.5,5005
+104,20,RL,Lvl,AllPub,Corner,Gtl,NAmes,Street,1Fam,6,3,3.0,Rec,1244,Ex,1244,0,0,3,6,336,Y,WD ,1.5,4.5,2488
+105,30,RM,Lvl,AllPub,Inside,Gtl,OldTown,Norm,1Fam,5,3,3.0,ALQ,686,Gd,866,0,0,4,4,0,Y,WD ,1.0,3.0,1552
+106,60,RL,Lvl,AllPub,Inside,Gtl,Gilbert,Norm,1Fam,6,3,4.0,ALQ,697,Gd,1501,0,0,4,6,420,Y,WD ,2.5,5.5,2198
+107,50,RL,Lvl,AllPub,Inside,Gtl,NWAmes,Norm,1Fam,6,3,4.0,ALQ,1224,TA,1891,0,1,3,7,678,Y,WD ,3.0,6.0,3115
+108,90,RL,Lvl,AllPub,Corner,Gtl,Sawyer,Street,Duplex,6,3,3.0,Unf,1921,TA,1921,0,0,3,8,576,Y,WD ,2.0,6.0,3842
+109,90,RL,Lvl,AllPub,Inside,Gtl,Sawyer,Norm,Duplex,4,2,3.0,ALQ,1832,TA,1832,2,0,3,8,0,Y,WD ,2.0,6.0,3664
+110,20,RL,Lvl,AllPub,Inside,Gtl,NAmes,Norm,1Fam,6,3,3.0,LwQ,1434,TA,1434,1,0,3,7,528,Y,WD ,2.0,6.0,2868
+111,60,FV,Lvl,AllPub,Inside,Gtl,Somerst,RRN,1Fam,8,4,4.0,Unf,1058,Ex,1874,0,0,4,7,588,Y,WD ,2.5,5.5,2932
+112,80,RM,Lvl,AllPub,Inside,Gtl,OldTown,Norm,1Fam,4,3,0.0,Na,0,Ex,1382,0,0,3,6,384,Y,WD ,2.0,3.0,1382
+113,20,RL,Lvl,AllPub,Inside,Gtl,Mitchel,Norm,1Fam,5,3,4.0,Unf,1140,Ex,1140,0,0,3,6,0,Y,WD ,1.0,4.0,2280
+114,20,RL,Low,AllPub,Inside,Gtl,SawyerW,Norm,1Fam,7,4,4.0,GLQ,1482,Ex,1494,1,0,4,5,514,Y,WD ,2.0,5.0,2976
+115,60,RL,Lvl,AllPub,CulDSac,Gtl,NoRidge,Norm,1Fam,10,4,5.0,GLQ,1930,Ex,3627,1,0,4,10,807,Y,WD ,3.5,7.5,5557
+116,190,RM,Lvl,AllPub,Inside,Gtl,OldTown,Street,2fmCon,5,3,4.0,Unf,360,Gd,1812,0,0,4,8,672,N,WD ,2.0,6.0,2172
+117,160,RM,Lvl,AllPub,Inside,Gtl,BrDale,Norm,TwnhsE,5,3,3.0,Unf,630,TA,1302,0,0,3,6,440,Y,WD ,2.5,5.5,1932
+118,20,RL,Lvl,AllPub,Inside,Gtl,CollgCr,Norm,1Fam,9,5,5.0,GLQ,1720,Ex,1720,1,0,5,8,846,Y,WD ,2.0,5.0,3440
+119,60,RL,Lvl,AllPub,Inside,Gtl,Gilbert,Norm,1Fam,6,3,3.0,GLQ,926,Ex,1604,0,0,4,7,470,Y,WD ,2.5,5.5,2530
+120,20,RL,Lvl,AllPub,Inside,Gtl,Somerst,Norm,1Fam,10,5,5.0,GLQ,1966,Ex,1966,1,0,5,6,1092,Y,New,2.0,3.0,3932
+121,60,RL,Lvl,AllPub,Inside,Gtl,NridgHt,Norm,1Fam,8,4,4.0,Unf,1085,Ex,1970,0,0,5,8,753,Y,New,2.5,5.5,3055
+122,120,RL,HLS,AllPub,Inside,Gtl,StoneBr,Norm,TwnhsE,9,4,5.0,GLQ,1714,Ex,1714,1,0,4,7,517,Y,WD ,2.0,4.0,3428
+123,60,RL,Lvl,AllPub,Corner,Gtl,Gilbert,Norm,1Fam,6,3,4.0,GLQ,794,Gd,1470,0,1,3,6,388,Y,WD ,2.0,5.0,2264
+124,75,RL,Bnk,AllPub,Inside,Gtl,SWISU,Norm,1Fam,4,4,3.0,Unf,795,TA,2230,1,0,3,10,440,Y,WD ,1.0,6.0,3025
+125,60,RL,Lvl,AllPub,Inside,Gtl,NridgHt,Norm,1Fam,9,4,5.0,GLQ,1414,Ex,2331,1,0,5,9,1003,Y,WD ,2.5,5.5,3745
+126,20,RL,Lvl,AllPub,Corner,Gtl,CollgCr,Norm,1Fam,5,3,3.0,Rec,864,Ex,864,0,0,3,5,288,Y,WD ,1.0,4.0,1728
+127,20,RL,Lvl,AllPub,Inside,Gtl,NAmes,Norm,1Fam,5,3,3.0,BLQ,1008,Gd,1008,1,0,4,6,240,Y,WD ,1.0,3.0,2016
+128,50,RM,Lvl,AllPub,FR2,Gtl,BrkSide,Street,1Fam,5,3,3.0,ALQ,565,TA,1216,1,0,3,6,355,Y,WD ,1.0,4.0,1781
+129,20,FV,Lvl,AllPub,Inside,Gtl,Somerst,Norm,1Fam,9,4,4.0,Unf,1530,Ex,1530,0,0,4,7,984,Y,WD ,2.0,5.0,3060
+130,80,RL,Lvl,AllPub,Inside,Gtl,CollgCr,Norm,1Fam,5,3,4.0,GLQ,1015,TA,1025,0,0,3,6,370,Y,WD ,2.0,5.0,2040
+131,60,RL,Lvl,AllPub,Inside,Gtl,Gilbert,Norm,1Fam,6,3,4.0,GLQ,943,Gd,1638,1,0,3,7,472,Y,WD ,2.5,5.5,2581
+132,60,RL,Lvl,AllPub,Inside,Gtl,Sawyer,Norm,1Fam,5,3,3.0,Rec,720,Ex,1440,0,0,3,7,480,Y,WD ,1.5,5.5,2160
+133,85,RL,Lvl,AllPub,Inside,Gtl,NAmes,Norm,1Fam,6,3,3.0,GLQ,1080,Gd,1128,1,0,4,5,315,Y,WD ,1.0,3.0,2208
+134,160,FV,Lvl,AllPub,Inside,Gtl,Somerst,Norm,Twnhs,6,3,4.0,GLQ,744,Gd,1549,1,0,3,6,440,Y,WD ,2.5,5.5,2293
+135,50,RL,Lvl,AllPub,Inside,Gtl,Crawfor,Norm,1Fam,7,4,4.0,ALQ,1528,Ex,2133,1,0,3,8,312,Y,WD ,1.5,5.5,3661
+136,20,RL,Lvl,AllPub,Inside,Gtl,Somerst,Street,1Fam,7,4,4.0,Unf,1369,Ex,1369,0,0,4,5,605,Y,New,2.0,5.0,2738
+137,20,RL,Lvl,AllPub,Inside,Gtl,SawyerW,RRA,1Fam,7,4,4.0,Unf,1114,Ex,1114,0,0,4,6,576,Y,WD ,1.5,4.5,2228
+138,120,RL,Lvl,AllPub,Inside,Gtl,NridgHt,Norm,Twnhs,6,4,4.0,ALQ,1302,Ex,1302,1,0,4,5,631,Y,New,1.5,2.5,2604
+139,20,RL,Lvl,AllPub,Inside,Gtl,Mitchel,Norm,1Fam,5,3,4.0,ALQ,816,TA,816,1,0,3,4,264,Y,WD ,1.0,3.0,1632
+140,20,RL,Lvl,AllPub,Inside,Gtl,NWAmes,Norm,1Fam,6,3,3.0,ALQ,1161,TA,1381,1,0,4,5,676,Y,WD ,1.5,4.5,2542
+141,20,RL,Lvl,AllPub,Inside,Gtl,NAmes,Norm,1Fam,5,3,3.0,GLQ,1078,Gd,1078,1,0,4,5,240,Y,WD ,1.0,3.0,2156
+142,50,RM,Lvl,AllPub,Inside,Gtl,IDOTRR,Norm,1Fam,6,3,3.0,Unf,756,Ex,1469,0,0,3,7,216,Y,WD ,1.0,4.0,2225
+143,20,RL,Bnk,NoSewr,FR2,Gtl,Gilbert,Street,1Fam,6,3,3.0,Unf,1632,TA,1474,0,0,3,7,495,Y,WD ,1.0,4.0,3106
+144,50,RL,Lvl,AllPub,Inside,Gtl,Edwards,Norm,1Fam,5,3,0.0,Na,0,Gd,1137,0,0,3,8,0,Y,WD ,1.5,5.5,1137
+145,90,RM,Lvl,AllPub,Inside,Gtl,OldTown,Street,Duplex,5,3,3.0,Unf,960,Gd,1960,0,0,3,10,400,N,COD,2.0,6.0,2920
+146,70,RM,Lvl,AllPub,Inside,Gtl,OldTown,Norm,1Fam,6,3,3.0,Unf,1048,Gd,1768,0,0,3,8,576,Y,WD ,2.0,5.0,2816
+147,60,RL,Lvl,AllPub,FR2,Gtl,CollgCr,Norm,1Fam,6,3,4.0,GLQ,689,Ex,1392,0,0,3,6,299,Y,WD ,1.5,4.5,2081
+148,70,C (all),Bnk,AllPub,Inside,Gtl,IDOTRR,Norm,1Fam,4,3,2.0,Unf,592,Ex,864,0,0,2,5,216,N,WD ,1.5,4.5,1456
+149,20,RL,Lvl,AllPub,Inside,Gtl,Veenker,Norm,1Fam,7,4,4.0,LwQ,1740,TA,1740,0,0,4,7,540,Y,WD ,1.5,3.5,3480
+150,60,RL,Lvl,AllPub,Corner,Gtl,CollgCr,Norm,1Fam,7,4,4.0,Unf,860,Ex,1720,0,0,4,7,565,Y,WD ,2.5,5.5,2580
+151,50,RL,Lvl,AllPub,Inside,Gtl,Edwards,Norm,1Fam,6,3,3.0,BLQ,988,Ex,1626,0,0,4,6,332,Y,WD ,1.5,4.5,2614
+152,50,RM,Bnk,AllPub,Inside,Gtl,OldTown,Street,1Fam,6,3,3.0,Unf,901,Gd,1198,0,0,3,7,0,N,ConLD,1.0,5.0,2099
+153,85,RL,Lvl,AllPub,Inside,Gtl,NAmes,Norm,1Fam,5,3,3.0,ALQ,864,TA,900,1,0,3,6,288,Y,WD ,1.0,4.0,1764
+154,30,RL,Lvl,AllPub,Inside,Gtl,OldTown,Norm,1Fam,5,4,3.0,Unf,768,Ex,792,0,0,4,5,240,N,WD ,1.0,3.0,1560
+155,20,RL,Lvl,AllPub,Inside,Gtl,NAmes,Norm,1Fam,5,3,3.0,ALQ,1098,TA,1098,1,0,3,6,260,Y,WD ,1.0,4.0,2196
+156,160,RM,Lvl,AllPub,Inside,Gtl,MeadowV,Norm,TwnhsE,4,3,3.0,Unf,546,Ex,1092,0,0,3,5,0,Y,WD ,1.5,4.5,1638
+157,20,RL,Lvl,AllPub,Inside,Gtl,NAmes,Norm,1Fam,6,3,3.0,ALQ,936,TA,936,1,0,4,4,315,Y,WD ,1.0,3.0,1872
+158,60,RL,Lvl,AllPub,Corner,Gtl,SawyerW,Norm,1Fam,7,4,5.0,BLQ,1104,Ex,2127,1,0,4,8,833,Y,WD ,2.5,6.5,3231
+159,60,RL,Lvl,AllPub,Inside,Gtl,CollgCr,Norm,1Fam,8,4,4.0,Unf,1055,Ex,2263,0,0,4,7,905,Y,WD ,2.5,5.5,3318
+160,20,RL,Lvl,AllPub,Inside,Mod,CollgCr,Norm,1Fam,6,3,4.0,GLQ,1478,Ex,1493,1,0,4,7,508,Y,WD ,2.0,5.0,2971
+161,50,RL,Lvl,AllPub,Inside,Gtl,Edwards,Norm,1Fam,5,3,3.0,BLQ,768,Ex,1200,0,0,3,6,240,Y,WD ,1.0,4.0,1968
+162,20,RL,Lvl,AllPub,Corner,Gtl,NAmes,Norm,1Fam,5,3,3.0,BLQ,1056,TA,1056,0,1,3,6,260,Y,WD ,1.0,4.0,2112
+163,20,RL,Lvl,AllPub,Inside,Gtl,NridgHt,Pos,1Fam,10,5,5.0,GLQ,2630,Ex,2674,2,0,5,8,762,Y,WD ,2.5,4.5,5304
+164,120,RL,Lvl,AllPub,Inside,Gtl,NridgHt,Norm,TwnhsE,9,5,5.0,Unf,1451,Ex,1456,0,0,5,6,539,Y,WD ,2.0,4.0,2907
+165,20,RL,Lvl,AllPub,Inside,Gtl,Somerst,Norm,1Fam,8,3,4.0,GLQ,1563,Ex,1563,0,0,4,6,758,Y,WD ,2.0,5.0,3126
+166,20,RL,Lvl,AllPub,Inside,Gtl,SawyerW,RRA,1Fam,6,3,4.0,GLQ,1114,Ex,1114,1,0,4,6,576,Y,WD ,1.0,4.0,2228
+167,120,RL,Lvl,AllPub,Inside,Gtl,Blmngtn,Norm,TwnhsE,7,4,4.0,GLQ,1145,Ex,1145,0,0,4,6,437,Y,WD ,2.0,4.0,2290
+168,60,FV,Lvl,AllPub,Inside,Gtl,Somerst,RRA,1Fam,7,4,4.0,ALQ,960,Ex,2318,1,0,4,8,541,Y,New,2.5,5.5,3278
+169,20,RL,Lvl,AllPub,Inside,Gtl,CollgCr,Norm,1Fam,7,4,4.0,GLQ,1445,Ex,1445,0,0,4,6,470,Y,WD ,2.0,5.0,2890
+170,60,RL,Lvl,AllPub,Corner,Gtl,NoRidge,Norm,1Fam,10,4,5.0,GLQ,2396,Ex,4476,1,0,5,10,813,Y,WD ,3.5,7.5,6872
+171,20,RL,Lvl,AllPub,Inside,Gtl,CollgCr,Norm,1Fam,5,3,4.0,ALQ,990,Ex,990,1,0,3,5,480,Y,WD ,1.0,4.0,1980
+172,80,RL,Lvl,AllPub,Inside,Gtl,Edwards,Norm,1Fam,5,3,3.0,ALQ,1776,Ex,1560,0,1,3,6,528,Y,WD ,2.0,5.0,3336
+173,160,FV,Lvl,AllPub,Inside,Gtl,Somerst,Norm,Twnhs,7,4,4.0,Unf,600,Ex,1223,0,0,4,4,480,Y,WD ,2.5,4.5,1823
+174,60,RL,Lvl,AllPub,Corner,Gtl,Gilbert,Norm,1Fam,7,4,4.0,Unf,712,Ex,1895,0,0,4,7,409,Y,WD ,2.5,5.5,2607
+175,50,RL,Bnk,AllPub,Inside,Gtl,NAmes,Norm,1Fam,6,3,3.0,Rec,912,TA,1734,0,0,4,7,440,Y,WD ,1.5,4.5,2646
+176,30,RL,Lvl,AllPub,Corner,Gtl,OldTown,Norm,1Fam,5,3,2.0,Unf,691,Ex,691,0,0,5,4,216,N,WD ,1.0,3.0,1382
+177,90,RL,Lvl,AllPub,Inside,Gtl,Sawyer,Norm,Duplex,5,3,3.0,Rec,1949,TA,1949,0,0,3,10,586,Y,WD ,2.0,8.0,3898
+178,160,RM,Lvl,AllPub,Inside,Gtl,MeadowV,Norm,TwnhsE,4,3,3.0,Rec,546,TA,1092,0,0,3,6,286,Y,WD ,1.5,4.5,1638
+179,20,RL,Lvl,AllPub,Inside,Gtl,NAmes,Norm,1Fam,5,3,3.0,Rec,1242,Gd,1242,1,0,3,6,324,Y,WD ,1.5,4.5,2484
+180,50,RL,Lvl,AllPub,Inside,Gtl,SWISU,Street,1Fam,5,3,3.0,Unf,894,Ex,1666,1,0,3,7,0,N,WD ,1.0,4.0,2560
+181,60,RL,Lvl,AllPub,Inside,Gtl,NWAmes,Street,1Fam,7,3,3.0,BLQ,832,Gd,1978,0,0,3,9,486,Y,WD ,2.5,6.5,2810
+182,60,RL,Lvl,AllPub,Inside,Gtl,Veenker,Norm,1Fam,7,4,3.0,LwQ,1192,TA,2167,1,0,4,9,518,Y,WD ,2.5,5.5,3359
+183,60,RL,Lvl,AllPub,Inside,Gtl,Gilbert,Norm,1Fam,7,4,4.0,Unf,738,Ex,1492,0,0,4,8,440,Y,New,2.5,5.5,2230
+184,20,RL,Lvl,AllPub,Inside,Gtl,NWAmes,Norm,1Fam,6,3,4.0,Unf,1064,TA,1350,0,0,3,7,478,Y,WD ,2.0,5.0,2414
+185,50,RL,Lvl,AllPub,Inside,Gtl,Edwards,Norm,1Fam,6,3,3.0,Rec,560,TA,1258,0,0,3,6,280,P,WD ,1.0,3.0,1818
+186,60,RL,Lvl,AllPub,Inside,Gtl,Gilbert,Norm,1Fam,7,4,4.0,GLQ,782,Ex,1489,1,0,4,8,400,Y,WD ,2.5,5.5,2271
+187,75,RL,Bnk,AllPub,Corner,Gtl,BrkSide,Norm,1Fam,7,3,4.0,BLQ,1108,TA,2068,0,0,4,8,315,Y,WD ,1.5,4.5,3176
+188,20,RL,Lvl,AllPub,Inside,Gtl,Sawyer,Norm,1Fam,5,3,3.0,LwQ,980,Gd,980,1,0,3,5,400,Y,WD ,1.0,4.0,1960
+189,20,RL,Lvl,AllPub,Corner,Gtl,Edwards,Norm,1Fam,3,3,0.0,Na,0,Fa,944,0,0,2,4,528,Y,WD ,1.0,3.0,944
+190,60,RL,Lvl,AllPub,Inside,Gtl,NWAmes,Norm,1Fam,7,3,4.0,GLQ,832,TA,1664,0,0,3,8,528,Y,WD ,2.5,6.5,2496
+191,120,RM,Low,AllPub,Inside,Mod,MeadowV,Norm,Twnhs,5,3,4.0,GLQ,945,Ex,945,1,1,3,5,253,Y,WD ,1.0,3.0,1890
+192,30,RL,Lvl,AllPub,Inside,Gtl,BrkSide,RRA,1Fam,6,3,3.0,Rec,816,Ex,838,1,0,2,5,275,N,WD ,1.0,3.0,1654
+193,20,RL,Lvl,AllPub,Inside,Gtl,Sawyer,Norm,1Fam,5,3,4.0,ALQ,864,TA,864,0,0,3,5,276,Y,COD,1.0,4.0,1728
+194,60,RL,Lvl,AllPub,Inside,Gtl,Gilbert,RRA,1Fam,6,4,4.0,Unf,783,Ex,1484,0,0,4,8,393,Y,New,2.5,5.5,2267
+195,85,RL,Lvl,AllPub,CulDSac,Gtl,Mitchel,Norm,1Fam,6,3,4.0,GLQ,888,Ex,912,1,0,3,5,470,Y,WD ,1.0,3.0,1800
+196,60,RL,Lvl,AllPub,Inside,Gtl,Somerst,Norm,1Fam,8,4,4.0,GLQ,955,Ex,1874,1,0,4,8,880,Y,New,2.5,5.5,2829
+197,50,RL,Bnk,AllPub,Inside,Gtl,SWISU,Norm,1Fam,5,3,3.0,LwQ,992,Fa,1465,0,0,3,6,240,Y,WD ,2.0,5.0,2457
+198,80,RL,Lvl,AllPub,Inside,Gtl,Sawyer,Norm,1Fam,5,3,3.0,Unf,533,TA,1601,0,1,3,6,300,Y,WD ,1.0,4.0,2134
+199,80,RL,Lvl,AllPub,Inside,Gtl,NAmes,Norm,1Fam,5,3,4.0,BLQ,301,Ex,1145,0,0,3,6,684,Y,WD ,1.0,4.0,1446
+200,60,RL,Lvl,AllPub,CulDSac,Gtl,NoRidge,Norm,1Fam,8,4,5.0,Unf,1629,Ex,2475,0,0,4,7,962,Y,WD ,2.5,6.5,4104
+201,75,RM,Lvl,AllPub,Corner,Gtl,OldTown,Norm,1Fam,7,3,3.0,Unf,1226,Ex,2104,0,0,3,9,432,P,WD ,2.0,7.0,3330
+202,80,RL,Lvl,AllPub,Corner,Gtl,Sawyer,Norm,1Fam,6,3,3.0,GLQ,912,TA,934,0,1,3,4,336,Y,WD ,1.0,3.0,1846
+203,60,RL,Lvl,AllPub,Corner,Gtl,SawyerW,RRN,1Fam,6,4,4.0,GLQ,832,Ex,1710,0,0,4,7,506,Y,WD ,2.5,5.5,2542
+204,70,RM,Bnk,AllPub,Corner,Mod,OldTown,Street,1Fam,6,3,3.0,Unf,483,Ex,1427,0,0,4,7,379,Y,WD ,1.0,4.0,1910
+205,20,RL,Lvl,AllPub,Inside,Gtl,NAmes,Norm,1Fam,4,3,0.0,Na,0,TA,1040,0,0,3,4,420,Y,WD ,1.0,3.0,1040
+206,160,RL,Lvl,AllPub,Inside,Gtl,NPkVill,Norm,Twnhs,6,3,4.0,ALQ,855,Gd,1456,0,0,3,6,460,Y,WD ,2.5,5.5,2311
+207,60,RL,Lvl,AllPub,Corner,Gtl,Edwards,Norm,1Fam,6,4,3.0,Rec,621,TA,1269,0,0,3,7,280,Y,WD ,1.5,4.5,1890
+208,120,RL,Lvl,AllPub,Inside,Gtl,NridgHt,Norm,TwnhsE,8,4,4.0,GLQ,1370,Ex,1370,0,0,4,6,484,Y,WD ,2.0,4.0,2740
+209,60,RL,Lvl,AllPub,CulDSac,Gtl,Somerst,Street,1Fam,6,4,4.0,Unf,894,Ex,1933,0,0,4,9,668,Y,WD ,2.5,6.5,2827
+210,60,RL,Lvl,AllPub,Inside,Gtl,Gilbert,Norm,1Fam,6,3,4.0,ALQ,923,Gd,1714,1,0,3,7,451,Y,WD ,2.5,5.5,2637
+211,60,RL,Lvl,AllPub,Inside,Gtl,NWAmes,Norm,1Fam,6,4,3.0,ALQ,901,TA,1876,0,0,4,8,540,Y,WD ,2.5,6.5,2777
+212,30,RL,Lvl,AllPub,Inside,Gtl,Edwards,Norm,1Fam,4,3,3.0,ALQ,949,TA,1292,0,0,4,6,205,N,WD ,1.5,4.5,2241
+213,20,RL,Low,AllPub,Inside,Sev,Timber,Norm,1Fam,7,3,4.0,ALQ,2136,TA,2036,2,0,3,8,513,Y,WD ,2.0,5.0,4172
+214,120,FV,Lvl,AllPub,Inside,Gtl,Somerst,Norm,TwnhsE,9,4,4.0,GLQ,1557,Ex,1557,1,0,5,5,484,Y,WD ,2.0,4.0,3114
+215,60,RL,Lvl,AllPub,Corner,Gtl,SawyerW,Norm,1Fam,7,4,4.0,GLQ,836,Gd,1737,0,1,4,7,506,Y,WD ,2.5,5.5,2573
+216,20,RL,Low,AllPub,Inside,Mod,ClearCr,Norm,1Fam,7,3,4.0,Rec,1865,TA,1830,1,0,3,6,521,Y,WD ,1.0,3.0,3695
+217,60,RM,HLS,AllPub,Inside,Gtl,OldTown,Norm,1Fam,7,3,3.0,Unf,651,Gd,1389,0,0,3,6,240,P,WD ,1.5,4.5,2040
+218,85,RM,Lvl,AllPub,Inside,Gtl,IDOTRR,Norm,1Fam,4,3,4.0,BLQ,858,TA,892,1,0,4,5,0,N,COD,1.0,2.0,1750
+219,20,RL,Lvl,AllPub,Inside,Gtl,NAmes,Norm,1Fam,5,3,3.0,GLQ,1040,Ex,1040,1,0,4,6,286,Y,WD ,1.0,4.0,2080
+220,160,FV,Lvl,AllPub,FR3,Gtl,Somerst,Norm,TwnhsE,7,4,4.0,GLQ,691,Ex,1452,1,0,4,6,506,Y,WD ,2.5,5.5,2143
+221,90,RL,Lvl,AllPub,Inside,Gtl,OldTown,Norm,Duplex,6,3,3.0,GLQ,1056,Gd,1056,2,0,3,4,576,Y,WD ,0.0,0.0,2112
+222,60,RL,Lvl,AllPub,Inside,Gtl,NAmes,Norm,1Fam,6,3,3.0,BLQ,780,TA,1796,1,0,3,8,483,Y,WD ,1.5,5.5,2576
+223,60,RL,Lvl,AllPub,Inside,Gtl,Gilbert,Norm,1Fam,6,4,4.0,Unf,684,Ex,1560,0,0,4,6,400,Y,WD ,2.5,5.5,2244
+224,30,RL,Lvl,AllPub,Corner,Gtl,SWISU,Norm,1Fam,6,3,3.0,Rec,856,TA,856,1,0,3,4,399,Y,WD ,1.0,3.0,1712
+225,30,RL,Lvl,AllPub,Inside,Gtl,OldTown,Norm,1Fam,5,3,3.0,Unf,720,TA,846,0,0,4,4,576,N,WD ,1.0,3.0,1566
+226,60,RL,Lvl,AllPub,Corner,Gtl,CollgCr,Norm,1Fam,8,4,4.0,Unf,1128,Ex,2290,0,0,4,9,779,Y,WD ,2.5,6.5,3418
+227,60,RL,Lvl,AllPub,Inside,Gtl,Somerst,Norm,1Fam,7,4,4.0,Unf,982,Ex,1977,0,0,4,7,574,Y,WD ,2.5,5.5,2959
+228,20,RL,HLS,AllPub,Inside,Gtl,Crawfor,Norm,1Fam,5,3,3.0,Rec,1273,Ex,1273,0,0,3,5,307,Y,WD ,1.0,3.0,2546
+229,60,RL,Lvl,AllPub,Inside,Gtl,NoRidge,Norm,1Fam,7,4,4.0,Unf,1264,Ex,2344,0,0,4,7,889,Y,WD ,2.5,5.5,3608
+230,30,RL,Lvl,AllPub,Inside,Gtl,Edwards,Norm,1Fam,5,3,3.0,ALQ,1580,Ex,1518,1,0,2,5,0,Y,WD ,1.0,3.0,3098
+231,180,RM,Lvl,AllPub,Inside,Gtl,MeadowV,Norm,TwnhsE,4,3,4.0,LwQ,630,Ex,630,1,0,3,3,0,Y,WD ,1.0,2.0,1260
+232,50,RM,Lvl,AllPub,Corner,Gtl,OldTown,Norm,1Fam,4,3,3.0,ALQ,709,TA,1844,1,0,3,9,240,Y,COD,1.0,4.0,2553
+233,20,RL,Lvl,AllPub,Inside,Gtl,Edwards,Norm,1Fam,4,3,3.0,BLQ,768,TA,768,0,0,3,4,355,Y,WD ,1.0,3.0,1536
+234,75,RL,Lvl,AllPub,Corner,Gtl,NAmes,Street,1Fam,8,4,3.0,GLQ,1360,Gd,3112,1,1,4,8,795,Y,WD ,2.0,6.0,4472
+235,60,RL,Lvl,AllPub,Corner,Gtl,Gilbert,Norm,1Fam,6,3,4.0,ALQ,691,Gd,1498,0,0,3,6,409,Y,WD ,2.5,5.5,2189
+236,30,RM,Lvl,AllPub,Inside,Gtl,OldTown,Norm,1Fam,5,3,3.0,Unf,844,TA,844,0,0,3,5,216,N,WD ,1.0,3.0,1688
+237,60,RL,Lvl,AllPub,Inside,Gtl,NridgHt,Pos,1Fam,9,5,5.0,GLQ,1776,Ex,2772,1,0,5,10,754,Y,WD ,3.5,7.5,4548
+238,20,RL,Lvl,AllPub,CulDSac,Gtl,Somerst,RRA,1Fam,8,4,5.0,GLQ,2077,Ex,2097,1,0,5,8,1134,Y,New,1.5,2.5,4174
+239,120,FV,Lvl,AllPub,Corner,Gtl,Somerst,Norm,TwnhsE,7,4,5.0,Unf,1352,Ex,1352,0,0,4,5,466,Y,New,2.0,4.0,2704
+240,60,RL,Lvl,AllPub,Inside,Gtl,CollgCr,Norm,1Fam,8,4,4.0,Unf,1079,Ex,1919,0,0,4,8,685,Y,New,2.5,5.5,2998
+241,20,RL,Lvl,AllPub,Inside,Gtl,NWAmes,Norm,1Fam,6,3,4.0,GLQ,1284,TA,1284,1,0,3,5,480,Y,COD,2.0,5.0,2568
+242,60,RL,Lvl,AllPub,Inside,Gtl,NridgHt,Norm,1Fam,8,4,4.0,Unf,1181,Ex,2374,0,0,5,10,656,Y,WD ,2.5,6.5,3555
+243,60,RL,Lvl,AllPub,Corner,Gtl,Edwards,Norm,1Fam,7,4,5.0,Unf,1150,Ex,2314,0,0,4,9,502,Y,ConLD,2.5,5.5,3464
+244,20,RL,HLS,AllPub,Inside,Gtl,Timber,Norm,1Fam,9,5,5.0,Unf,2002,Ex,2018,0,0,5,10,746,Y,WD ,2.0,5.0,4020
+245,20,RL,Lvl,AllPub,Inside,Gtl,CollgCr,Norm,1Fam,8,4,4.0,Unf,1643,Ex,1651,0,0,4,7,870,Y,New,2.0,5.0,3294
+246,20,RL,Lvl,AllPub,Inside,Gtl,NAmes,Norm,1Fam,6,3,2.0,Rec,882,TA,882,0,0,3,5,502,Y,WD ,1.0,3.0,1764
+247,20,RL,Lvl,AllPub,Inside,Gtl,NAmes,Norm,1Fam,4,3,3.0,ALQ,894,Gd,894,1,0,3,5,396,Y,WD ,1.0,3.0,1788
+248,60,RL,Lvl,AllPub,Inside,Gtl,Gilbert,RRA,1Fam,6,3,4.0,Unf,982,Ex,1800,0,0,3,7,463,Y,WD ,2.5,5.5,2782
+249,120,RL,Lvl,AllPub,Inside,Gtl,NridgHt,Norm,TwnhsE,9,5,5.0,Unf,1869,Ex,1869,0,0,5,6,617,Y,New,2.0,4.0,3738
+250,120,RM,HLS,AllPub,Inside,Mod,Crawfor,Norm,TwnhsE,8,4,4.0,GLQ,1573,Gd,1625,1,1,4,5,495,Y,New,2.0,4.0,3198
+251,50,RL,Bnk,AllPub,Inside,Gtl,SWISU,Norm,1Fam,6,3,3.0,LwQ,940,Ex,1595,0,0,3,6,240,Y,WD ,1.0,3.0,2535
+252,60,RL,Lvl,AllPub,Inside,Gtl,SawyerW,Norm,1Fam,8,4,4.0,GLQ,1128,Ex,2020,0,0,4,8,466,Y,WD ,2.5,5.5,3148
+253,60,FV,Lvl,AllPub,Inside,Gtl,Somerst,Norm,1Fam,7,4,4.0,Unf,912,Ex,2094,0,0,4,8,615,Y,WD ,2.5,6.5,3006
+254,20,RL,Lvl,AllPub,Corner,Gtl,Timber,Norm,1Fam,6,3,4.0,GLQ,1392,TA,1412,1,0,4,6,576,Y,WD ,2.0,5.0,2804
+255,50,RM,Lvl,AllPub,Inside,Gtl,BrkSide,Norm,1Fam,3,4,3.0,Rec,728,Ex,1162,1,0,3,6,258,Y,ConLI,1.0,4.0,1890
+256,50,RM,Lvl,AllPub,Corner,Gtl,OldTown,Norm,1Fam,4,3,3.0,Unf,576,Gd,1140,0,0,3,7,0,N,WD ,1.0,4.0,1716
+257,60,RL,Lvl,AllPub,Inside,Gtl,NridgHt,Norm,1Fam,9,5,5.0,GLQ,1848,Ex,2728,1,0,5,10,706,Y,New,2.5,6.5,4576
+258,60,RL,Lvl,AllPub,Corner,Gtl,SawyerW,Norm,1Fam,7,4,4.0,GLQ,1079,Ex,1879,1,0,4,8,473,Y,WD ,2.5,5.5,2958
+259,20,RL,Lvl,AllPub,Inside,Gtl,Timber,Norm,1Fam,6,3,3.0,Unf,585,Gd,2279,0,0,4,7,461,Y,WD ,2.5,6.5,2864
+260,80,RL,Lvl,AllPub,Corner,Gtl,Gilbert,Norm,1Fam,7,4,4.0,GLQ,384,Ex,1374,1,0,4,8,400,Y,WD ,2.5,5.5,1758
+261,70,RM,Lvl,AllPub,Inside,Gtl,IDOTRR,Norm,1Fam,6,3,3.0,Rec,768,TA,1536,0,0,3,7,308,Y,COD,1.5,5.5,2304
+262,160,RM,Lvl,AllPub,Inside,Gtl,BrDale,Norm,Twnhs,6,3,3.0,BLQ,672,TA,1218,0,0,3,7,264,Y,WD ,1.5,4.5,1890
+263,20,RL,Lvl,AllPub,Inside,Gtl,Edwards,Norm,1Fam,6,3,3.0,Rec,1094,Ex,1094,0,0,3,5,495,Y,WD ,1.0,4.0,2188
+264,60,RL,HLS,AllPub,CulDSac,Gtl,Gilbert,Norm,1Fam,7,4,5.0,Unf,868,Ex,2021,0,0,4,9,422,Y,New,2.5,5.5,2889
+265,60,RL,Lvl,AllPub,Corner,Gtl,NAmes,Norm,1Fam,6,3,3.0,Unf,780,TA,1806,0,0,3,8,483,Y,WD ,1.5,5.5,2586
+266,20,RL,Lvl,AllPub,Inside,Gtl,NAmes,Norm,1Fam,5,3,3.0,Rec,1314,TA,1314,1,0,3,5,294,Y,WD ,1.0,4.0,2628
+267,60,RL,Lvl,AllPub,Inside,Gtl,SawyerW,Norm,1Fam,7,4,4.0,ALQ,740,Ex,1775,1,0,4,7,425,Y,WD ,2.5,5.5,2515
+268,80,RL,Lvl,AllPub,Corner,Gtl,NAmes,Street,1Fam,6,3,3.0,GLQ,1248,TA,1350,1,0,3,6,520,Y,WD ,1.5,4.5,2598
+269,180,RM,Lvl,AllPub,Inside,Gtl,Edwards,Norm,TwnhsE,6,3,4.0,GLQ,547,Gd,1072,1,0,3,5,525,Y,New,1.0,3.0,1619
+270,190,C (all),Lvl,AllPub,Corner,Gtl,OldTown,Norm,2fmCon,6,3,3.0,Rec,1214,Ex,2291,0,1,3,9,506,Y,WD ,2.0,6.0,3505
+271,60,FV,Lvl,AllPub,Inside,Gtl,Somerst,Norm,1Fam,7,4,4.0,Unf,770,Ex,1576,0,0,4,6,614,Y,New,2.5,5.5,2346
+272,70,RM,Lvl,AllPub,Corner,Gtl,OldTown,Norm,1Fam,7,3,2.0,Unf,596,Ex,1762,1,0,4,8,576,N,WD ,1.5,5.5,2358
+273,50,RL,Lvl,AllPub,Inside,Mod,Crawfor,Norm,1Fam,8,3,3.0,Rec,728,Ex,3447,0,0,4,11,1014,Y,WD ,3.5,7.5,4175
+274,20,RL,Lvl,AllPub,Inside,Gtl,NAmes,Norm,1Fam,4,3,3.0,ALQ,864,TA,864,1,0,3,5,576,Y,WD ,1.0,4.0,1728
+275,20,RL,HLS,AllPub,Inside,Gtl,Edwards,Norm,1Fam,5,3,4.0,ALQ,1176,TA,1176,1,0,3,5,360,Y,WD ,1.0,3.0,2352
+276,120,RM,Lvl,AllPub,Inside,Gtl,CollgCr,Norm,TwnhsE,6,4,4.0,GLQ,848,Ex,848,1,0,4,3,420,Y,WD ,1.0,2.0,1696
+277,80,RL,Lvl,AllPub,FR2,Gtl,Veenker,Street,1Fam,5,3,4.0,ALQ,1360,Ex,1432,1,0,4,5,588,Y,WD ,1.5,3.5,2792
+278,20,RL,Lvl,AllPub,Inside,Gtl,NAmes,Norm,1Fam,5,3,0.0,Na,0,Gd,1048,0,0,3,7,420,Y,WD ,1.0,4.0,1048
+279,20,RL,Lvl,AllPub,Inside,Gtl,NAmes,Norm,1Fam,5,3,3.0,LwQ,936,TA,1128,0,0,3,5,286,Y,WD ,1.0,3.0,2064
+280,60,RL,HLS,AllPub,CulDSac,Gtl,Gilbert,Norm,1Fam,8,4,4.0,Unf,893,Ex,1801,0,0,4,8,800,Y,WD ,2.5,5.5,2694
+281,70,RH,Lvl,AllPub,Inside,Gtl,SWISU,Norm,1Fam,6,3,3.0,BLQ,672,TA,1482,0,0,2,7,400,P,WD ,2.0,6.0,2154
+282,20,RL,Lvl,AllPub,Inside,Gtl,Mitchel,Norm,1Fam,5,3,4.0,BLQ,974,TA,974,0,0,3,5,0,Y,Oth,1.0,4.0,1948
+283,50,RM,Lvl,AllPub,Corner,Gtl,OldTown,Norm,1Fam,5,3,3.0,Unf,346,Ex,1017,0,0,3,5,308,N,WD ,1.0,3.0,1363
+284,50,RM,Lvl,AllPub,Inside,Gtl,BrkSide,Norm,1Fam,6,3,3.0,ALQ,735,Ex,1218,0,1,3,6,440,Y,WD ,1.0,4.0,1953
+285,60,RL,Lvl,AllPub,FR2,Gtl,NoRidge,Norm,1Fam,7,4,4.0,GLQ,973,Ex,1850,0,0,4,7,467,Y,WD ,2.5,5.5,2823
+286,70,RL,Lvl,AllPub,Inside,Gtl,Crawfor,Norm,1Fam,6,3,4.0,Rec,952,TA,2345,0,0,3,9,360,Y,WD ,2.5,6.5,3297
+287,160,RM,Lvl,AllPub,Inside,Gtl,BrDale,Norm,Twnhs,6,3,3.0,BLQ,483,TA,987,0,0,3,5,264,Y,WD ,1.5,3.5,1470
+288,45,RH,Lvl,AllPub,Corner,Gtl,SawyerW,Norm,1Fam,6,3,2.0,Unf,784,TA,784,0,0,3,5,360,N,WD ,1.0,3.0,1568
+289,20,RL,Lvl,AllPub,Inside,Gtl,Edwards,Norm,1Fam,5,3,3.0,BLQ,1144,TA,1144,1,0,3,6,596,Y,WD ,1.0,4.0,2288
+290,20,RL,Lvl,AllPub,Inside,Gtl,NAmes,Norm,1Fam,5,3,3.0,ALQ,920,Gd,888,0,1,3,5,240,Y,COD,1.0,4.0,1808
+291,90,RM,Lvl,AllPub,Inside,Gtl,Sawyer,RRA,Duplex,6,3,0.0,Na,0,TA,1654,0,0,3,10,528,Y,WD ,2.0,6.0,1654
+292,160,RM,Lvl,AllPub,Inside,Gtl,MeadowV,Norm,Twnhs,4,3,3.0,Unf,546,Ex,1092,0,0,3,6,286,Y,COD,1.5,4.5,1638
+293,20,RL,Lvl,AllPub,Corner,Gtl,NAmes,Street,1Fam,5,3,0.0,Na,0,Gd,925,0,0,3,7,300,Y,WD ,1.0,4.0,925
+294,20,RL,Bnk,AllPub,Corner,Mod,Sawyer,Norm,1Fam,5,3,3.0,Rec,1188,Gd,1437,1,0,3,6,576,Y,WD ,1.5,4.5,2625
+295,120,RM,Lvl,AllPub,Inside,Gtl,CollgCr,Norm,TwnhsE,6,4,4.0,GLQ,848,Ex,848,1,0,4,3,420,Y,WD ,1.0,2.0,1696
+296,60,RL,Lvl,AllPub,Inside,Gtl,CollgCr,Norm,1Fam,7,4,4.0,Unf,784,Ex,1596,0,0,4,6,610,Y,WD ,2.5,5.5,2380
+297,60,RL,Lvl,AllPub,Inside,Gtl,NoRidge,Norm,1Fam,7,4,4.0,GLQ,1070,Ex,2061,1,0,4,7,647,Y,WD ,2.5,5.5,3131
+298,20,RL,Lvl,AllPub,Inside,Gtl,Timber,Norm,1Fam,8,4,5.0,GLQ,1432,Ex,1440,1,0,4,7,467,Y,WD ,2.0,5.0,2872
+299,70,RL,HLS,AllPub,Corner,Gtl,Crawfor,Norm,1Fam,6,3,3.0,Unf,784,TA,1603,0,0,3,7,599,Y,WD ,1.0,5.0,2387
+300,90,RH,HLS,AllPub,Inside,Gtl,Crawfor,Norm,Duplex,6,3,4.0,Rec,979,TA,1958,0,0,3,8,492,Y,WD ,2.0,6.0,2937
+301,120,RL,Lvl,AllPub,Inside,Gtl,NridgHt,Norm,TwnhsE,9,5,5.0,GLQ,1884,Ex,1884,1,0,5,6,649,Y,New,2.0,4.0,3768
+302,20,RL,Lvl,AllPub,Inside,Gtl,Sawyer,Norm,1Fam,5,3,3.0,BLQ,980,TA,980,0,0,3,6,484,Y,WD ,1.0,4.0,1960
+303,70,RM,Lvl,AllPub,Inside,Gtl,OldTown,Street,1Fam,5,3,3.0,LwQ,1100,TA,1902,0,0,3,7,576,Y,WD ,2.0,6.0,3002
+304,30,RM,Lvl,AllPub,Corner,Gtl,OldTown,Norm,1Fam,5,3,2.0,Unf,672,TA,672,0,0,3,4,256,Y,WD ,1.0,3.0,1344
+305,20,RL,Lvl,AllPub,Inside,Gtl,Sawyer,Norm,1Fam,5,3,3.0,GLQ,1006,TA,1006,0,0,3,5,0,Y,WD ,1.0,4.0,2012
+306,190,RL,HLS,AllPub,Corner,Sev,Timber,Norm,2fmCon,5,3,3.0,ALQ,1499,Ex,1786,2,0,3,7,529,Y,WD ,2.0,5.0,3285
+307,20,RL,Lvl,AllPub,Inside,Gtl,CollgCr,Norm,1Fam,7,4,4.0,Unf,1286,Ex,1294,0,0,4,6,662,Y,New,2.0,4.0,2580
+308,90,RL,Lvl,AllPub,Inside,Gtl,Edwards,Norm,Duplex,5,3,4.0,GLQ,1152,TA,1152,2,0,3,6,252,N,WD ,2.0,4.0,2304
+309,20,RL,Lvl,AllPub,CulDSac,Gtl,Sawyer,Norm,1Fam,5,3,3.0,Rec,1024,TA,1024,0,0,3,5,308,Y,WD ,1.5,4.5,2048
+310,60,RL,Lvl,AllPub,Inside,Gtl,Crawfor,Norm,1Fam,5,3,4.0,GLQ,1168,Gd,2315,1,0,3,9,342,Y,WD ,2.0,6.0,3483
+311,120,RL,Lvl,AllPub,Inside,Gtl,StoneBr,Norm,TwnhsE,8,4,4.0,GLQ,1338,Ex,1338,1,0,4,6,582,Y,WD ,2.0,4.0,2676
+312,20,RL,Lvl,AllPub,Inside,Gtl,Somerst,RRA,1Fam,7,4,5.0,GLQ,1578,Gd,1578,1,0,4,7,642,Y,WD ,2.0,5.0,3156
+313,60,RL,Lvl,AllPub,Corner,Gtl,Gilbert,Norm,1Fam,8,4,4.0,Unf,1052,Ex,2373,0,0,4,9,632,Y,New,2.5,6.5,3425
+314,90,RH,Lvl,AllPub,Inside,Gtl,SWISU,Norm,Duplex,4,3,0.0,Na,0,TA,2650,0,0,3,10,0,Y,WD ,3.0,9.0,2650
+315,20,RL,Lvl,AllPub,Corner,Gtl,StoneBr,Norm,1Fam,9,4,5.0,GLQ,1856,Ex,1856,1,0,5,8,834,Y,New,1.5,2.5,3712
+316,20,RL,Lvl,AllPub,Inside,Gtl,NridgHt,Norm,1Fam,9,5,5.0,GLQ,1930,Ex,1940,1,0,5,8,606,Y,New,2.5,5.5,3870
+317,120,RL,Lvl,AllPub,Corner,Gtl,StoneBr,Norm,1Fam,8,4,5.0,GLQ,1664,Ex,1682,1,0,4,6,528,Y,WD ,1.5,2.5,3346
+318,60,RL,Lvl,AllPub,Inside,Gtl,Gilbert,Norm,1Fam,7,4,4.0,Unf,975,Ex,2291,0,0,4,8,429,Y,WD ,2.5,6.5,3266
+319,50,RL,Bnk,AllPub,Corner,Gtl,BrkSide,Norm,1Fam,5,3,3.0,LwQ,709,TA,1203,1,0,4,5,352,Y,WD ,1.0,4.0,1912
+320,50,RM,Lvl,AllPub,Inside,Gtl,BrkSide,Norm,1Fam,4,3,0.0,Na,0,Gd,912,0,0,3,3,0,N,WD ,1.0,3.0,912
+321,50,RL,Lvl,AllPub,Inside,Gtl,Edwards,Norm,1Fam,5,3,3.0,Rec,861,Ex,1367,1,0,3,7,384,Y,WD ,1.0,5.0,2228
+322,50,RL,Lvl,AllPub,Inside,Gtl,SWISU,Norm,1Fam,5,3,3.0,LwQ,1026,TA,1691,0,0,4,6,308,Y,WD ,2.0,5.0,2717
+323,20,RL,Lvl,AllPub,Corner,Gtl,NridgHt,Norm,1Fam,8,4,4.0,Unf,1544,Ex,1544,0,0,4,7,868,Y,New,2.0,5.0,3088
+324,20,RL,Low,AllPub,Inside,Gtl,CollgCr,Norm,1Fam,5,3,3.0,Rec,894,TA,894,0,0,3,6,600,Y,WD ,1.0,3.0,1788
+325,120,RL,Lvl,AllPub,Inside,Gtl,NPkVill,Norm,TwnhsE,6,3,4.0,LwQ,958,TA,958,0,0,3,5,440,Y,WD ,2.0,4.0,1916
+326,20,RL,Lvl,AllPub,Inside,Gtl,NAmes,Norm,1Fam,5,3,3.0,BLQ,992,TA,1306,1,0,3,5,756,Y,WD ,1.0,3.0,2298
+327,120,RL,Lvl,AllPub,Inside,Gtl,Blmngtn,Norm,TwnhsE,7,4,4.0,GLQ,1142,Ex,1142,0,0,4,6,440,Y,New,2.0,4.0,2284
+328,60,RM,Lvl,AllPub,Inside,Gtl,IDOTRR,Norm,1Fam,7,3,3.0,LwQ,976,Ex,1952,0,0,4,8,299,Y,WD ,1.5,5.5,2928
+329,60,RL,Lvl,AllPub,Inside,Gtl,NAmes,Norm,1Fam,5,3,3.0,Unf,704,Gd,1728,0,0,3,7,234,Y,WD ,1.5,4.5,2432
+330,90,RL,Lvl,AllPub,Inside,Gtl,NAmes,Norm,Duplex,5,3,3.0,Unf,1866,Ex,1866,0,0,3,8,495,Y,WD ,2.0,6.0,3732
+331,60,RL,Lvl,AllPub,FR3,Gtl,Gilbert,Norm,1Fam,6,3,4.0,ALQ,836,Gd,1709,1,0,4,7,416,Y,WD ,2.5,5.5,2545
+332,90,RL,Lvl,AllPub,Corner,Gtl,NAmes,Street,Duplex,5,3,3.0,Rec,928,Gd,1920,0,0,3,10,400,Y,WD ,2.0,6.0,2848
+333,120,RL,Lvl,AllPub,CulDSac,Gtl,Greens,Norm,Twnhs,8,4,4.0,GLQ,1235,Gd,1235,1,0,3,4,484,Y,WD ,1.0,2.0,2470
+334,30,RM,Lvl,AllPub,Inside,Gtl,IDOTRR,RRN,1Fam,5,3,2.0,Unf,451,TA,759,0,0,3,5,576,N,ConLD,1.0,2.0,1210
+335,70,RL,Lvl,AllPub,Inside,Gtl,Crawfor,Norm,1Fam,7,3,2.0,LwQ,793,Gd,1802,0,0,3,9,216,Y,WD ,1.5,5.5,2595
+336,30,RM,Lvl,AllPub,Inside,Gtl,OldTown,Norm,1Fam,5,4,2.0,Unf,624,TA,792,0,0,3,5,287,Y,WD ,1.0,3.0,1416
+337,50,RL,Lvl,AllPub,Inside,Gtl,OldTown,Street,1Fam,4,4,2.0,Unf,925,Gd,1544,0,0,3,7,0,N,WD ,2.0,5.0,2469
+338,20,RL,Lvl,AllPub,Inside,Gtl,NAmes,Street,1Fam,6,3,3.0,BLQ,1082,TA,1082,0,0,3,5,240,Y,WD ,1.0,3.0,2164
+339,120,RL,Lvl,AllPub,CulDSac,Gtl,Greens,Norm,TwnhsE,8,4,4.0,GLQ,728,TA,788,1,0,4,3,484,Y,WD ,1.0,2.0,1516
+340,20,RL,Lvl,AllPub,Inside,Gtl,Mitchel,Norm,1Fam,5,3,3.0,ALQ,1160,TA,1676,1,0,4,6,672,P,WD ,1.5,4.5,2836
+341,50,RM,Lvl,AllPub,Inside,Gtl,OldTown,Norm,1Fam,5,3,2.0,Unf,801,Gd,1447,0,0,3,6,0,N,WD ,1.0,4.0,2248
+342,40,RL,Lvl,AllPub,Inside,Gtl,NAmes,Norm,1Fam,5,4,3.0,Rec,832,Gd,1268,0,0,3,6,288,Y,WD ,1.0,4.0,2100
+343,60,RL,Lvl,AllPub,Inside,Gtl,CollgCr,Norm,1Fam,6,3,4.0,GLQ,804,Ex,1682,0,0,4,7,523,Y,WD ,2.5,5.5,2486
+344,60,RL,Lvl,AllPub,Inside,Gtl,NoRidge,Norm,1Fam,8,4,4.0,GLQ,1390,Ex,2225,1,0,4,7,713,Y,WD ,2.5,6.5,3615
+345,60,FV,Lvl,AllPub,Inside,Gtl,Somerst,Norm,1Fam,8,4,4.0,GLQ,975,Ex,1848,1,0,4,7,592,Y,WD ,2.5,5.5,2823
+346,60,RL,Lvl,AllPub,Inside,Gtl,Gilbert,Norm,1Fam,6,3,4.0,Unf,821,Gd,1776,0,0,3,7,443,Y,WD ,2.5,5.5,2597
+347,20,RL,Lvl,AllPub,Corner,Gtl,NAmes,Norm,1Fam,5,3,3.0,Rec,864,TA,892,0,0,3,5,264,Y,WD ,1.0,4.0,1756
+348,60,RL,Lvl,AllPub,Inside,Gtl,Gilbert,RRA,1Fam,7,4,4.0,GLQ,788,Ex,1490,1,0,4,8,388,Y,WD ,2.5,5.5,2278
+349,20,RL,Lvl,AllPub,Inside,Gtl,Sawyer,Norm,1Fam,5,3,3.0,ALQ,1064,TA,1064,0,1,3,6,528,Y,WD ,1.0,4.0,2128
+350,190,RM,Bnk,AllPub,Corner,Gtl,OldTown,Street,2fmCon,7,3,3.0,Rec,1020,TA,1864,0,0,3,9,0,N,WD ,2.5,8.5,2884
+351,60,RL,Lvl,AllPub,Inside,Gtl,Edwards,Norm,1Fam,6,3,3.0,ALQ,684,TA,1398,0,0,3,6,440,Y,WD ,1.5,4.5,2082
+352,160,RM,Lvl,AllPub,Inside,Gtl,BrDale,Norm,Twnhs,6,3,3.0,BLQ,672,Gd,1218,0,1,3,7,264,Y,WD ,1.5,4.5,1890
+353,20,RL,Lvl,AllPub,CulDSac,Gtl,Somerst,RRN,1Fam,8,4,5.0,GLQ,1660,Ex,1660,1,0,4,8,500,Y,New,2.0,5.0,3320
+354,20,RL,Lvl,AllPub,Corner,Gtl,Edwards,Norm,1Fam,4,3,3.0,Rec,967,Ex,1350,0,0,3,6,504,Y,WD ,1.5,4.5,2317
+355,80,RL,Lvl,AllPub,Corner,Gtl,NAmes,Pos,1Fam,7,4,4.0,Unf,710,Ex,2978,0,0,4,11,564,Y,WD ,2.5,7.5,3688
+356,70,RM,Lvl,AllPub,Inside,Gtl,OldTown,Norm,1Fam,6,3,3.0,Unf,741,Ex,1521,0,0,4,8,640,Y,WD ,1.0,5.0,2262
+357,20,RL,Lvl,AllPub,Inside,Gtl,CollgCr,Norm,1Fam,7,4,4.0,GLQ,1431,Ex,1431,1,0,4,6,666,Y,WD ,2.0,5.0,2862
+358,60,RL,Lvl,AllPub,Inside,Gtl,Mitchel,Norm,1Fam,8,4,4.0,ALQ,1107,Ex,2052,0,0,4,7,642,Y,WD ,2.5,5.5,3159
+359,50,RM,Lvl,AllPub,Corner,Gtl,IDOTRR,Street,1Fam,5,3,3.0,Unf,793,TA,1517,0,0,2,7,0,N,WD ,2.0,5.0,2310
+360,50,RL,Lvl,AllPub,Inside,Gtl,NAmes,Street,1Fam,6,3,3.0,BLQ,806,TA,1578,1,0,2,5,240,Y,WD ,1.0,4.0,2384
+361,20,RL,Lvl,AllPub,Inside,Gtl,Mitchel,Norm,1Fam,4,3,3.0,BLQ,1396,TA,1608,0,0,3,6,444,Y,COD,1.0,4.0,3004
+362,50,RL,Lvl,AllPub,Inside,Gtl,ClearCr,Norm,1Fam,5,3,4.0,Unf,689,Gd,1224,0,0,1,6,180,N,COD,1.5,4.5,1913
+363,90,RL,Lvl,AllPub,Corner,Gtl,NAmes,Norm,Duplex,5,3,3.0,Unf,1584,TA,1776,1,0,3,9,888,Y,COD,2.0,6.0,3360
+364,20,RL,Lvl,AllPub,Corner,Gtl,CollgCr,Norm,1Fam,8,4,5.0,Unf,1234,Ex,1234,0,0,4,7,484,Y,WD ,2.0,5.0,2468
+365,120,RM,HLS,AllPub,Inside,Mod,Crawfor,Norm,TwnhsE,8,4,4.0,GLQ,1573,Ex,1625,1,1,4,5,538,Y,WD ,2.0,4.0,3198
+366,20,RL,Lvl,AllPub,Inside,Mod,Timber,Norm,1Fam,5,3,3.0,Rec,1572,Gd,1572,1,0,3,5,995,Y,WD ,1.5,4.5,3144
+367,20,RL,Bnk,AllPub,Inside,Gtl,Crawfor,Norm,1Fam,5,3,4.0,ALQ,1430,Ex,1647,1,0,4,7,621,Y,WD ,2.0,5.0,3077
+368,60,RL,Lvl,AllPub,Corner,Gtl,Timber,Norm,1Fam,7,4,4.0,Unf,912,Ex,2014,0,0,4,9,486,Y,WD ,2.5,5.5,2926
+369,20,RM,Lvl,AllPub,Inside,Gtl,OldTown,Norm,1Fam,3,3,3.0,ALQ,1162,Ex,1163,1,0,3,6,220,Y,WD ,1.0,4.0,2325
+370,90,RL,Lvl,AllPub,Corner,Gtl,NAmes,Street,Duplex,6,3,3.0,Unf,1248,TA,2544,0,0,3,12,907,Y,WD ,3.0,9.0,3792
+371,160,RM,Lvl,AllPub,Inside,Gtl,BrDale,Norm,Twnhs,6,3,3.0,LwQ,483,Gd,987,0,0,3,5,352,Y,WD ,1.5,3.5,1470
+372,70,RL,Lvl,AllPub,Inside,Gtl,BrkSide,Norm,1Fam,6,3,3.0,Unf,764,Ex,1824,0,0,3,8,520,N,WD ,1.0,4.0,2588
+373,60,RL,Lvl,AllPub,Inside,Gtl,NoRidge,Norm,1Fam,9,4,5.0,GLQ,1540,Ex,2855,1,0,5,9,774,Y,WD ,2.5,6.5,4395
+374,85,RL,Lvl,AllPub,Inside,Gtl,Sawyer,Norm,1Fam,6,3,3.0,LwQ,814,Gd,913,1,0,3,6,240,Y,WD ,1.0,4.0,1727
+375,20,RL,HLS,AllPub,Corner,Gtl,Timber,Norm,1Fam,8,4,5.0,GLQ,1732,Ex,1776,1,0,4,7,712,Y,New,2.0,5.0,3508
+376,50,RL,Lvl,AllPub,Corner,Gtl,Crawfor,Norm,1Fam,7,4,3.0,Unf,912,Gd,1426,0,0,4,7,216,Y,WD ,1.5,4.5,2338
+377,120,RM,HLS,AllPub,Inside,Mod,Crawfor,Norm,TwnhsE,8,4,5.0,GLQ,1594,Ex,1646,1,1,4,5,482,Y,WD ,2.0,4.0,3240
+378,120,RL,Lvl,AllPub,Inside,Gtl,NridgHt,Norm,Twnhs,7,4,4.0,GLQ,1314,Ex,1314,1,0,4,6,626,Y,ConLw,2.0,4.0,2628
+379,120,RL,Lvl,AllPub,Inside,Gtl,Edwards,Norm,TwnhsE,5,4,4.0,GLQ,1049,TA,1049,1,0,4,5,266,Y,WD ,2.0,4.0,2098
+380,70,RL,Lvl,AllPub,Inside,Gtl,Crawfor,Norm,1Fam,6,3,4.0,Unf,840,Ex,1680,0,0,3,8,308,Y,WD ,2.0,6.0,2520
+381,190,RM,Bnk,AllPub,Inside,Gtl,OldTown,Street,2fmCon,7,2,3.0,Unf,925,TA,1889,0,0,3,9,308,N,WD ,1.5,5.5,2814
+382,20,RL,Lvl,AllPub,Corner,Gtl,NridgHt,Norm,1Fam,9,5,5.0,GLQ,1774,Ex,1808,1,0,5,7,850,Y,WD ,2.0,5.0,3582
+383,60,RL,Lvl,AllPub,Inside,Gtl,NridgHt,Norm,1Fam,8,4,5.0,Unf,1108,Ex,2550,0,0,5,11,670,Y,New,2.5,6.5,3658
+384,60,RL,Lvl,AllPub,Inside,Gtl,CollgCr,Norm,1Fam,7,4,4.0,GLQ,915,Ex,1908,1,0,4,8,493,Y,WD ,2.5,6.5,2823
+385,20,RL,Bnk,AllPub,CulDSac,Gtl,ClearCr,Norm,1Fam,6,3,4.0,LwQ,1182,Ex,1643,1,0,3,6,438,Y,WD ,2.0,4.0,2825
+386,190,RL,Lvl,AllPub,Corner,Gtl,OldTown,Norm,2fmCon,5,3,3.0,BLQ,954,TA,2414,0,0,3,10,520,N,ConLD,2.0,5.0,3368
+387,70,RL,Lvl,AllPub,Corner,Gtl,Crawfor,Norm,1Fam,8,4,2.0,ALQ,798,Ex,1512,1,0,4,7,180,P,WD ,2.0,5.0,2310
+388,20,RL,Lvl,AllPub,CulDSac,Gtl,Mitchel,Norm,1Fam,5,3,3.0,Rec,1188,TA,1188,0,0,3,6,312,P,WD ,1.0,4.0,2376
+389,50,RM,Lvl,AllPub,Inside,Gtl,OldTown,Street,1Fam,5,3,3.0,Unf,780,Ex,1323,0,0,3,6,400,Y,WD ,1.0,4.0,2103
+390,160,RM,Lvl,AllPub,Inside,Gtl,BrDale,Norm,Twnhs,5,3,3.0,Rec,525,TA,1092,0,0,3,6,320,Y,WD ,1.5,4.5,1617
+391,20,RL,Lvl,AllPub,Inside,Gtl,Somerst,Norm,1Fam,7,5,5.0,GLQ,1726,Ex,1726,1,0,5,8,786,Y,New,2.0,5.0,3452
+392,60,RL,Lvl,AllPub,Inside,Gtl,SawyerW,Norm,1Fam,6,3,4.0,Unf,650,TA,1564,0,0,3,7,476,Y,WD ,2.5,5.5,2214
+393,50,RL,Lvl,AllPub,Inside,Gtl,NAmes,Norm,1Fam,4,3,3.0,Rec,910,Gd,1521,0,0,4,6,597,Y,WD ,1.5,4.5,2431
+394,20,RL,Lvl,AllPub,Corner,Gtl,CollgCr,Norm,1Fam,7,3,4.0,Unf,1226,Ex,1226,0,0,4,6,740,Y,WD ,2.0,5.0,2452
+395,30,C (all),Lvl,AllPub,Inside,Gtl,OldTown,Norm,1Fam,4,3,3.0,Unf,624,Ex,816,0,0,3,5,0,N,WD ,1.0,3.0,1440
+396,20,RL,Lvl,AllPub,Inside,Gtl,CollgCr,Norm,1Fam,6,4,4.0,Unf,1330,Ex,1330,0,0,4,6,437,Y,New,2.0,5.0,2660
+397,60,RL,HLS,AllPub,FR2,Gtl,Gilbert,Norm,1Fam,6,3,4.0,GLQ,802,Gd,1511,1,0,3,8,413,Y,WD ,2.5,5.5,2313
+398,85,RL,Lvl,AllPub,CulDSac,Gtl,Sawyer,Norm,1Fam,5,3,4.0,GLQ,858,TA,858,1,0,3,5,576,Y,WD ,1.0,3.0,1716
+399,30,C (all),Low,AllPub,Inside,Gtl,IDOTRR,Norm,1Fam,3,2,3.0,Unf,894,TA,894,0,0,3,6,1248,Y,ConLD,1.0,3.0,1788
+400,50,RL,Bnk,AllPub,Inside,Mod,Gilbert,Norm,1Fam,8,4,4.0,GLQ,559,Gd,1752,0,0,3,8,492,Y,WD ,2.0,6.0,2311
+401,20,RL,Lvl,AllPub,Inside,Gtl,NWAmes,Norm,1Fam,7,4,4.0,ALQ,1782,TA,1782,0,1,4,6,551,Y,WD ,2.0,5.0,3564
+402,50,RL,Lvl,AllPub,FR2,Gtl,Crawfor,Norm,1Fam,5,3,3.0,Unf,731,Ex,1343,0,0,3,7,186,Y,WD ,1.5,4.5,2074
+403,20,RL,Lvl,AllPub,Inside,Gtl,NridgHt,Norm,1Fam,8,4,5.0,Unf,1709,Ex,1717,0,0,4,7,908,Y,WD ,2.0,5.0,3426
+404,80,RL,Lvl,AllPub,Inside,Gtl,NAmes,Norm,1Fam,5,3,3.0,ALQ,1075,Gd,1507,0,0,3,7,404,Y,WD ,2.0,6.0,2582
+405,20,RL,Lvl,AllPub,Inside,Gtl,NAmes,Norm,1Fam,5,3,3.0,BLQ,1027,TA,1027,0,1,3,6,299,Y,WD ,1.0,4.0,2054
+406,190,RH,Lvl,AllPub,Corner,Gtl,SWISU,Street,2fmCon,5,3,3.0,LwQ,856,Gd,1680,1,0,3,7,450,P,COD,2.0,4.0,2536
+407,60,RL,Lvl,AllPub,CulDSac,Gtl,CollgCr,Norm,1Fam,7,4,4.0,GLQ,941,Ex,1829,1,0,4,7,613,Y,WD ,2.5,5.5,2770
+408,60,RL,Lvl,AllPub,Inside,Gtl,NridgHt,Norm,1Fam,8,4,4.0,GLQ,1058,Ex,1904,1,0,5,8,736,Y,WD ,2.5,5.5,2962
+409,20,RL,Lvl,AllPub,Corner,Gtl,NAmes,Norm,1Fam,5,3,3.0,ALQ,952,TA,952,1,0,3,4,840,Y,COD,1.0,3.0,1904
+410,30,RM,Bnk,AllPub,Inside,Gtl,OldTown,Norm,1Fam,4,3,2.0,Rec,907,TA,1131,0,0,3,7,672,Y,WD ,1.0,3.0,2038
+411,50,RL,Lvl,AllPub,Inside,Gtl,NAmes,Norm,1Fam,5,3,3.0,GLQ,768,Gd,1588,0,0,3,6,480,Y,WD ,1.5,4.5,2356
+412,60,RL,Lvl,AllPub,Inside,Gtl,NWAmes,Norm,1Fam,7,3,4.0,ALQ,1043,TA,2673,0,0,4,9,441,Y,WD ,2.5,6.5,3716
+413,20,RL,Lvl,AllPub,Inside,Gtl,NAmes,Norm,1Fam,5,3,0.0,Na,0,Gd,1764,0,0,3,7,301,Y,WD ,2.5,6.5,1764
+414,60,RL,Lvl,AllPub,Inside,Gtl,CollgCr,Norm,1Fam,8,4,4.0,GLQ,1220,Ex,2090,1,0,4,8,556,Y,WD ,2.5,5.5,3310
+415,60,RL,Lvl,AllPub,Corner,Gtl,NoRidge,Norm,1Fam,8,4,4.0,GLQ,1225,Ex,2612,1,0,4,8,676,Y,WD ,2.5,6.5,3837
+416,50,RL,Lvl,AllPub,Inside,Gtl,Sawyer,Norm,1Fam,5,3,3.0,Unf,720,TA,1271,0,0,3,7,312,Y,WD ,2.0,6.0,1991
+417,60,RL,Lvl,AllPub,Corner,Gtl,Timber,Norm,1Fam,7,3,4.0,LwQ,1216,Ex,2514,0,0,3,8,693,Y,WD ,2.5,6.5,3730
+418,20,RL,Lvl,AllPub,FR2,Gtl,NAmes,Norm,1Fam,4,3,3.0,ALQ,864,Gd,864,0,0,3,4,576,Y,WD ,1.0,3.0,1728
+419,20,RL,Lvl,AllPub,Corner,Gtl,Sawyer,Norm,1Fam,5,3,3.0,Rec,1134,Ex,1803,1,0,3,8,484,Y,WD ,2.0,5.0,2937
+420,20,RL,Lvl,AllPub,Corner,Gtl,ClearCr,Norm,1Fam,6,3,4.0,LwQ,1288,Ex,2422,0,0,4,6,527,Y,WD ,3.0,7.0,3710
+421,20,RL,Bnk,AllPub,Inside,Gtl,NAmes,Norm,1Fam,5,3,3.0,Rec,1056,Gd,1056,1,0,3,6,300,Y,WD ,1.5,4.5,2112
+422,70,RL,Lvl,AllPub,Inside,Gtl,NAmes,Norm,1Fam,5,3,3.0,Unf,666,Gd,3086,0,0,4,9,1200,Y,WD ,3.5,7.5,3752
+423,70,RM,Lvl,AllPub,Corner,Gtl,BrkSide,Street,1Fam,6,3,3.0,Unf,554,Ex,1290,0,0,3,6,200,Y,WD ,1.5,4.5,1844
+424,20,RL,Lvl,AllPub,Corner,Gtl,CollgCr,Norm,1Fam,7,4,4.0,Unf,1541,Ex,1541,0,0,4,6,843,Y,WD ,2.0,5.0,3082
+425,20,RL,Lvl,AllPub,Inside,Gtl,NridgHt,Norm,1Fam,10,5,5.0,GLQ,2006,Ex,2020,1,0,5,9,900,Y,New,2.5,5.5,4026
+426,120,RL,Lvl,AllPub,CulDSac,Gtl,Greens,Norm,TwnhsE,8,4,4.0,GLQ,1226,TA,1226,1,0,4,4,484,Y,WD ,1.0,2.0,2452
+427,60,RL,Lvl,AllPub,Inside,Gtl,CollgCr,Norm,1Fam,7,4,4.0,GLQ,856,Ex,1710,1,0,4,8,548,Y,WD ,2.5,5.5,2566
+428,80,RL,Lvl,AllPub,Inside,Gtl,Mitchel,Norm,1Fam,7,3,3.0,Rec,852,TA,918,0,1,3,4,360,Y,WD ,1.0,4.0,1770
+429,20,RL,Lvl,AllPub,Corner,Gtl,CollgCr,Norm,1Fam,9,4,4.0,GLQ,1626,Ex,1668,1,0,4,7,702,Y,WD ,2.0,5.0,3294
+430,20,RL,Lvl,AllPub,Inside,Gtl,Edwards,Street,1Fam,4,3,0.0,Na,0,Ex,1126,0,0,4,5,520,N,WD ,2.0,4.0,1126
+431,20,RL,Lvl,AllPub,CulDSac,Gtl,NAmes,Norm,1Fam,6,3,3.0,ALQ,1062,Gd,1062,1,0,3,6,297,Y,WD ,1.0,4.0,2124
+432,45,RL,Lvl,AllPub,Inside,Gtl,NAmes,Norm,1Fam,5,3,3.0,ALQ,845,TA,893,0,1,4,4,576,Y,WD ,1.0,3.0,1738
+433,60,RL,Lvl,AllPub,Inside,Gtl,Gilbert,Norm,1Fam,7,4,4.0,Unf,846,Ex,1594,0,0,4,7,434,Y,WD ,2.5,5.5,2440
+434,50,RL,Low,AllPub,Inside,Mod,Edwards,Norm,1Fam,4,3,3.0,Unf,616,TA,1273,0,0,4,5,275,N,WD ,1.0,4.0,1889
+435,60,RL,Lvl,AllPub,Corner,Gtl,NridgHt,Norm,1Fam,8,4,5.0,Unf,1158,Ex,2376,0,0,4,9,853,Y,New,3.5,7.5,3534
+436,120,RL,Lvl,AllPub,Inside,Gtl,NridgHt,Norm,TwnhsE,7,4,4.0,Unf,1368,Ex,1368,0,0,4,6,474,Y,New,2.0,4.0,2736
+437,60,RL,Lvl,AllPub,Corner,Gtl,NWAmes,Norm,1Fam,6,3,3.0,ALQ,708,Gd,1416,0,0,3,7,776,Y,WD ,2.5,5.5,2124
+438,160,FV,Lvl,AllPub,FR2,Gtl,Somerst,Norm,TwnhsE,7,4,4.0,Unf,530,Ex,1080,0,0,4,4,496,Y,WD ,2.5,4.5,1610
+439,20,RL,Lvl,AllPub,Corner,Gtl,NAmes,Norm,1Fam,6,3,2.0,Unf,1392,Gd,1392,1,0,3,5,576,Y,WD ,1.0,3.0,2784
+440,60,RL,Lvl,AllPub,CulDSac,Gtl,SawyerW,RRN,1Fam,7,4,4.0,BLQ,996,Ex,1744,0,0,4,7,457,Y,WD ,2.5,5.5,2740
+441,20,RL,Lvl,AllPub,Corner,Gtl,NAmes,Norm,1Fam,5,3,3.0,BLQ,1214,TA,1214,0,0,3,5,318,Y,WD ,2.0,5.0,2428
+442,50,RM,Lvl,AllPub,Inside,Gtl,IDOTRR,Norm,1Fam,6,3,2.0,Unf,720,Gd,1090,0,0,3,5,240,Y,WD ,1.0,4.0,1810
+443,20,RL,Lvl,AllPub,Inside,Gtl,Veenker,Norm,1Fam,6,4,4.0,ALQ,1208,TA,1208,1,0,3,6,546,Y,WD ,1.5,4.5,2416
+444,85,RL,Lvl,AllPub,FR3,Gtl,NWAmes,Norm,1Fam,6,3,4.0,GLQ,988,TA,1102,1,0,3,5,582,Y,WD ,1.0,3.0,2090
+445,20,RL,Low,AllPub,Inside,Sev,ClearCr,Norm,1Fam,5,3,3.0,GLQ,1437,Ex,1473,2,0,5,5,452,Y,WD ,1.0,2.0,2910
+446,70,RM,Lvl,AllPub,Inside,Gtl,OldTown,Norm,1Fam,2,2,2.0,Unf,723,TA,1086,0,0,3,5,400,N,ConLD,1.0,3.0,1809
+447,30,RM,Lvl,AllPub,Inside,Gtl,BrkSide,Street,1Fam,4,3,3.0,Rec,765,TA,765,1,0,4,4,200,P,WD ,1.0,3.0,1530
+448,60,RL,Lvl,AllPub,Inside,Gtl,NoRidge,Norm,1Fam,7,4,4.0,GLQ,1379,Ex,2398,1,0,4,8,834,Y,WD ,2.5,5.5,3777
+449,20,RL,Lvl,AllPub,Inside,Gtl,CollgCr,Norm,1Fam,5,3,3.0,ALQ,864,Gd,864,1,0,5,5,576,Y,WD ,1.0,4.0,1728
+450,60,RL,Lvl,AllPub,Inside,Gtl,NAmes,Norm,1Fam,7,3,3.0,ALQ,864,TA,1820,0,0,4,8,492,Y,WD ,2.0,6.0,2684
+451,20,RL,Lvl,AllPub,Inside,Gtl,Somerst,Norm,1Fam,8,4,4.0,GLQ,1702,Ex,1702,1,0,4,7,844,Y,WD ,2.0,5.0,3404
+452,120,RL,Lvl,AllPub,Inside,Gtl,NridgHt,Norm,TwnhsE,7,4,4.0,GLQ,1358,Ex,1358,1,0,4,6,484,Y,New,2.0,4.0,2716
+453,50,RM,Lvl,AllPub,Inside,Gtl,OldTown,Street,1Fam,7,3,3.0,Unf,952,Gd,1774,0,0,3,8,468,Y,WD ,2.0,4.0,2726
+454,60,FV,Lvl,AllPub,Inside,Gtl,Somerst,Norm,1Fam,7,4,4.0,Unf,756,Ex,1553,0,0,4,6,615,Y,New,2.5,5.5,2309
+455,60,FV,Lvl,AllPub,Corner,Gtl,Somerst,Norm,1Fam,8,4,4.0,GLQ,972,Ex,1811,0,0,4,7,565,Y,WD ,2.5,5.5,2783
+456,20,RL,Lvl,AllPub,Inside,Gtl,CollgCr,Norm,1Fam,7,4,4.0,GLQ,1417,Ex,1417,1,0,4,7,511,Y,WD ,2.0,5.0,2834
+457,20,RL,Lvl,AllPub,Inside,Gtl,NAmes,Norm,1Fam,5,3,3.0,GLQ,1008,Ex,1008,1,0,2,6,308,Y,WD ,1.0,4.0,2016
+458,60,RL,Lvl,AllPub,Inside,Gtl,SawyerW,Norm,1Fam,8,4,4.0,GLQ,908,Ex,1915,1,0,4,8,506,Y,WD ,2.5,5.5,2823
+459,20,RL,Lvl,AllPub,Inside,Gtl,Edwards,Norm,1Fam,5,3,3.0,Rec,960,Ex,960,1,0,2,4,392,Y,WD ,1.0,3.0,1920
+460,160,RM,Lvl,AllPub,Inside,Gtl,Blueste,Norm,TwnhsE,6,3,4.0,ALQ,561,TA,1229,1,0,4,5,462,Y,WD ,1.5,3.5,1790
+461,20,RL,Lvl,AllPub,Inside,Gtl,NAmes,Norm,1Fam,5,3,3.0,Rec,1056,Fa,1056,1,0,3,6,308,Y,WD ,1.0,4.0,2112
+462,60,RL,Lvl,AllPub,Inside,Gtl,NAmes,Pos,1Fam,6,3,3.0,BLQ,660,TA,1348,0,0,3,6,453,Y,WD ,1.5,4.5,2008
+463,60,RL,Lvl,AllPub,Corner,Gtl,NoRidge,Norm,1Fam,10,5,5.0,GLQ,2444,Ex,4316,0,1,5,10,832,Y,WD ,3.5,7.5,6760
+464,30,RM,Lvl,AllPub,Inside,Gtl,IDOTRR,Norm,1Fam,4,3,3.0,LwQ,1196,Ex,1196,1,0,3,5,440,Y,WD ,1.0,3.0,2392
+465,60,RL,Lvl,AllPub,Inside,Gtl,Gilbert,Norm,1Fam,7,4,4.0,Unf,847,Ex,1959,0,0,4,8,434,Y,WD ,2.5,6.5,2806
+466,60,RL,HLS,AllPub,CulDSac,Mod,ClearCr,Norm,1Fam,7,4,4.0,GLQ,1449,Gd,1759,1,0,4,7,525,Y,WD ,2.5,5.5,3208
+467,60,RL,Lvl,AllPub,Inside,Gtl,CollgCr,Norm,1Fam,7,4,4.0,Unf,1257,Ex,2161,0,0,4,8,570,Y,WD ,2.5,5.5,3418
+468,120,RL,Lvl,AllPub,Inside,Gtl,SawyerW,Norm,TwnhsE,6,3,4.0,ALQ,744,TA,752,1,0,3,4,264,Y,WD ,1.0,3.0,1496
+469,20,RL,Lvl,AllPub,Corner,Gtl,Mitchel,Norm,1Fam,5,3,3.0,ALQ,816,TA,816,0,0,3,5,264,Y,WD ,1.0,3.0,1632
+470,85,RL,Lvl,AllPub,CulDSac,Gtl,SawyerW,Norm,1Fam,5,3,4.0,ALQ,840,Gd,884,1,0,4,5,504,Y,WD ,1.0,3.0,1724
+471,20,RL,Lvl,AllPub,Inside,Gtl,CollgCr,Norm,1Fam,7,4,4.0,GLQ,1614,Ex,1614,0,0,4,7,865,Y,New,2.0,5.0,3228
+472,60,RL,Lvl,AllPub,Inside,Gtl,Gilbert,Norm,1Fam,6,3,4.0,GLQ,707,Gd,1516,1,0,4,7,409,Y,WD ,2.5,5.5,2223
+473,20,RL,Lvl,AllPub,Inside,Gtl,Sawyer,Norm,1Fam,5,3,3.0,Rec,876,TA,897,0,0,3,5,264,Y,WD ,1.0,4.0,1773
+474,60,RL,Lvl,AllPub,Inside,Gtl,SawyerW,Street,1Fam,7,4,4.0,ALQ,700,Gd,2243,1,0,4,8,746,Y,WD ,2.5,6.5,2943
+475,20,FV,Lvl,AllPub,Inside,Gtl,Somerst,Norm,1Fam,8,4,4.0,Unf,1568,Ex,1568,0,0,4,6,564,Y,WD ,2.0,5.0,3136
+476,20,RL,Lvl,AllPub,Inside,Gtl,NAmes,Norm,1Fam,5,3,3.0,BLQ,864,TA,1064,0,1,2,4,318,Y,WD ,1.0,3.0,1928
+477,60,RL,Lvl,AllPub,Inside,Gtl,NWAmes,RRA,1Fam,5,3,3.0,Rec,780,Ex,1620,0,0,3,7,462,Y,WD ,2.5,6.5,2400
+478,30,RH,Lvl,AllPub,Corner,Gtl,SawyerW,Street,1Fam,5,3,3.0,Unf,816,TA,1012,0,0,3,5,429,Y,WD ,1.0,3.0,1828
+479,20,RL,Lvl,AllPub,Inside,Gtl,Gilbert,RRA,1Fam,6,4,4.0,GLQ,1316,Ex,1316,0,0,4,6,397,Y,New,2.0,5.0,2632
+480,20,RL,Lvl,AllPub,CulDSac,Gtl,Edwards,Norm,1Fam,4,3,0.0,Na,0,Ex,845,0,0,3,5,290,N,WD ,1.0,4.0,845
+481,60,RL,Lvl,AllPub,Corner,Gtl,Gilbert,Norm,1Fam,7,3,4.0,Unf,964,Gd,2236,0,0,4,8,642,Y,WD ,2.5,6.5,3200
+482,180,RM,Lvl,AllPub,Inside,Gtl,MeadowV,Norm,Twnhs,5,3,4.0,GLQ,630,Ex,630,1,0,5,3,0,Y,WD ,1.0,2.0,1260
+483,60,RL,Lvl,AllPub,Inside,Gtl,Gilbert,Norm,1Fam,7,4,4.0,Rec,691,Gd,1553,0,0,4,6,420,Y,WD ,2.5,5.5,2244
+484,70,RL,HLS,AllPub,Inside,Mod,Crawfor,Norm,1Fam,8,3,4.0,BLQ,965,TA,3194,0,0,3,10,380,Y,WD ,2.5,6.5,4159
+485,20,RL,Lvl,AllPub,Inside,Gtl,NAmes,Norm,1Fam,6,3,3.0,Rec,1136,TA,1136,1,0,3,5,384,Y,WD ,1.0,4.0,2272
+486,120,RM,Lvl,AllPub,Inside,Gtl,CollgCr,Norm,TwnhsE,6,4,4.0,GLQ,848,Ex,848,1,0,4,4,420,Y,ConLD,1.0,2.0,1696
+487,20,RL,Lvl,AllPub,Corner,Gtl,NWAmes,Norm,1Fam,6,3,4.0,ALQ,1211,TA,1211,1,0,4,6,461,Y,WD ,2.0,5.0,2422
+488,120,FV,Lvl,AllPub,Inside,Gtl,Somerst,Norm,TwnhsE,6,4,4.0,GLQ,1145,Ex,1256,1,0,4,5,641,Y,WD ,1.5,2.5,2401
+489,50,RM,Lvl,AllPub,Inside,Gtl,IDOTRR,Norm,1Fam,6,3,3.0,ALQ,861,Ex,1285,0,1,3,6,506,Y,WD ,1.0,4.0,2146
+490,70,RM,Lvl,AllPub,Corner,Gtl,OldTown,Norm,1Fam,5,3,3.0,Unf,994,TA,2372,0,0,3,11,432,Y,WD ,2.0,6.0,3366
+491,20,RL,Lvl,AllPub,Inside,Gtl,CollgCr,Norm,1Fam,7,4,4.0,Unf,1498,Ex,1498,0,0,4,5,675,Y,New,2.0,4.0,2996
+492,70,RM,Lvl,AllPub,Inside,Gtl,OldTown,Norm,1Fam,6,3,3.0,Unf,1100,Ex,2264,0,0,3,8,408,Y,WD ,2.5,6.5,3364
+493,60,RL,Lvl,AllPub,Corner,Gtl,NWAmes,Pos,1Fam,7,3,4.0,ALQ,1107,Ex,2090,1,0,3,7,484,Y,WD ,2.5,5.5,3197
+494,60,RL,Lvl,AllPub,Inside,Gtl,NridgHt,Norm,1Fam,9,5,5.0,GLQ,1175,Ex,2324,1,0,5,11,736,Y,New,3.0,7.0,3499
+495,120,RM,Lvl,AllPub,Inside,Gtl,Blmngtn,Norm,TwnhsE,7,4,4.0,Unf,1375,Ex,1414,0,0,4,6,398,Y,WD ,2.0,4.0,2789
+496,190,RL,Lvl,AllPub,Inside,Gtl,SWISU,Norm,2fmCon,5,2,3.0,Rec,1212,TA,1392,1,0,3,6,0,N,ConLD,1.0,4.0,2604
+497,50,RM,Lvl,AllPub,Corner,Gtl,BrkSide,Norm,1Fam,5,3,3.0,Unf,884,Ex,1348,1,0,3,5,216,N,WD ,1.0,4.0,2232
+498,60,RL,Lvl,AllPub,Inside,Mod,Mitchel,Norm,1Fam,5,3,3.0,ALQ,784,Ex,1968,0,1,3,7,530,Y,WD ,2.5,6.5,2752
+499,20,RL,Lvl,AllPub,Inside,Gtl,Edwards,Norm,1Fam,4,3,3.0,GLQ,1014,TA,1149,1,0,3,7,544,Y,WD ,1.0,4.0,2163
+500,60,RL,Lvl,AllPub,Inside,Gtl,Gilbert,Norm,1Fam,6,4,4.0,Unf,742,Ex,1484,0,0,4,8,390,Y,WD ,2.5,5.5,2226
+501,80,RL,Low,AllPub,FR2,Mod,Veenker,Street,1Fam,8,4,3.0,Unf,392,Ex,2499,0,0,3,5,527,Y,WD ,2.5,6.5,2891
+502,80,RL,Lvl,AllPub,Inside,Gtl,Gilbert,Norm,1Fam,7,4,4.0,GLQ,835,Ex,1119,1,0,4,5,437,Y,WD ,2.0,4.0,1954
+503,120,RL,Lvl,AllPub,Inside,Gtl,SawyerW,Norm,TwnhsE,6,4,4.0,GLQ,1199,Ex,1199,0,0,4,5,530,Y,WD ,2.0,4.0,2398
+504,20,RL,Lvl,AllPub,Corner,Gtl,CollgCr,Norm,1Fam,6,4,4.0,GLQ,1836,Gd,1846,1,0,4,7,495,Y,New,2.0,5.0,3682
+505,20,RL,Lvl,AllPub,CulDSac,Gtl,CollgCr,Norm,1Fam,5,4,3.0,ALQ,864,Ex,864,1,0,3,6,336,Y,WD ,1.0,4.0,1728
+506,70,RL,Bnk,AllPub,Inside,Mod,Crawfor,Norm,1Fam,8,4,4.0,Rec,853,TA,2727,0,0,4,10,440,Y,WD ,2.5,5.5,3580
+507,30,RL,Lvl,AllPub,Inside,Gtl,BrkSide,Norm,1Fam,6,3,3.0,Unf,952,Fa,952,0,0,2,4,192,P,WD ,1.0,3.0,1904
+508,160,RM,Lvl,AllPub,Inside,Gtl,MeadowV,Norm,TwnhsE,5,3,4.0,Unf,264,TA,1304,0,0,3,5,336,Y,WD ,1.5,4.5,1568
+509,60,FV,Lvl,AllPub,Inside,Gtl,Somerst,Norm,1Fam,8,4,4.0,Unf,1088,Ex,1959,0,0,4,8,1025,Y,WD ,2.5,5.5,3047
+510,50,RL,Lvl,AllPub,Inside,Gtl,Edwards,Norm,1Fam,3,3,3.0,BLQ,972,TA,1610,0,1,2,8,480,Y,WD ,2.0,6.0,2582
+511,160,RM,Lvl,AllPub,Inside,Gtl,BrDale,Norm,TwnhsE,5,3,3.0,LwQ,765,Gd,1365,0,0,4,7,440,Y,WD ,1.5,4.5,2130
+512,60,RL,Lvl,AllPub,Inside,Gtl,NWAmes,Norm,1Fam,5,3,3.0,BLQ,720,Gd,1308,0,0,3,7,484,Y,WD ,1.5,4.5,2028
+513,20,RL,Lvl,AllPub,Inside,Gtl,NAmes,Norm,1Fam,5,4,3.0,ALQ,912,Ex,925,1,0,3,5,576,Y,WD ,1.0,4.0,1837
+514,20,RM,Lvl,AllPub,Corner,Gtl,OldTown,Norm,1Fam,2,3,3.0,Unf,407,TA,407,0,0,3,3,297,Y,WD ,1.0,2.0,814
+515,20,RL,Lvl,AllPub,Inside,Gtl,NAmes,Norm,1Fam,6,3,3.0,Rec,1244,Ex,1580,1,0,3,6,440,Y,WD ,1.5,4.5,2824
+516,20,RL,Lvl,AllPub,Inside,Gtl,NAmes,Norm,1Fam,5,3,3.0,LwQ,1292,TA,1292,1,0,3,6,520,Y,COD,1.5,4.5,2584
+517,60,FV,Lvl,AllPub,Corner,Gtl,Somerst,Norm,1Fam,7,4,4.0,Unf,569,Ex,1694,0,0,4,6,434,Y,WD ,2.5,5.5,2263
+518,20,RL,Lvl,AllPub,Inside,Gtl,CollgCr,Norm,1Fam,8,4,5.0,Unf,1622,Ex,1630,1,0,5,8,860,Y,WD ,2.0,5.0,3252
+519,60,RL,Lvl,AllPub,Corner,Gtl,NoRidge,Norm,1Fam,8,4,4.0,Unf,1288,Ex,2417,0,0,4,9,462,Y,WD ,2.5,6.5,3705
+520,30,RM,Lvl,AllPub,Inside,Gtl,BrkSide,Norm,1Fam,5,3,3.0,Unf,960,Gd,995,0,0,3,5,264,Y,WD ,1.0,3.0,1955
+521,50,RM,Lvl,AllPub,Corner,Gtl,BrkSide,Norm,1Fam,5,3,3.0,Unf,927,TA,1539,0,0,3,5,576,Y,WD ,1.5,4.5,2466
+522,70,I (all),Low,AllPub,Inside,Gtl,IDOTRR,Norm,1Fam,5,3,3.0,Unf,686,Ex,1836,0,0,3,7,288,N,WD ,2.0,6.0,2522
+523,80,RL,Lvl,AllPub,Inside,Gtl,NAmes,Norm,1Fam,5,3,3.0,ALQ,980,Gd,980,0,0,3,6,384,Y,WD ,2.0,5.0,1960
+524,120,RL,Lvl,AllPub,Inside,Gtl,Blmngtn,Norm,TwnhsE,7,4,4.0,GLQ,1415,Ex,1455,1,0,4,6,644,Y,WD ,2.0,4.0,2870
+525,60,RL,Lvl,AllPub,Inside,Gtl,NridgHt,Norm,1Fam,9,5,5.0,GLQ,1934,Ex,2656,1,0,5,8,1040,Y,New,2.5,5.5,4590
+526,120,RL,Lvl,AllPub,CulDSac,Gtl,Greens,Norm,Twnhs,8,4,4.0,GLQ,1036,TA,1036,1,0,4,4,484,Y,WD ,1.0,2.0,2072
+527,90,RL,Lvl,AllPub,Inside,Gtl,Edwards,Norm,Duplex,5,3,0.0,Na,0,TA,1664,0,0,3,8,0,Y,WD ,2.0,6.0,1664
+528,50,RM,Lvl,AllPub,Inside,Gtl,OldTown,Norm,1Fam,5,3,3.0,Unf,702,Gd,1472,0,0,4,6,250,P,WD ,1.0,4.0,2174
+529,30,RL,Lvl,AllPub,Inside,Gtl,OldTown,Street,1Fam,2,2,2.0,Unf,416,Gd,599,1,0,4,4,0,N,WD ,1.0,3.0,1015
+530,120,RL,Lvl,AllPub,Inside,Gtl,NPkVill,Norm,TwnhsE,7,3,3.0,ALQ,836,TA,836,0,1,3,5,345,Y,WD ,1.0,3.0,1672
+531,60,RL,Lvl,AllPub,Inside,Gtl,Gilbert,Norm,1Fam,6,4,4.0,Unf,698,Ex,1746,1,0,4,6,350,Y,New,2.5,5.5,2444
+532,20,RL,Lvl,AllPub,Inside,Gtl,NWAmes,Norm,1Fam,6,3,3.0,ALQ,1103,TA,1103,0,0,3,6,462,Y,WD ,2.0,5.0,2206
+533,20,RL,Lvl,AllPub,Inside,Gtl,CollgCr,Norm,1Fam,7,4,4.0,GLQ,1222,Ex,1222,0,0,4,6,615,Y,WD ,2.0,4.0,2444
+534,75,RL,Bnk,AllPub,Inside,Mod,SWISU,Norm,1Fam,5,3,3.0,LwQ,720,Ex,2192,0,0,4,8,240,Y,WD ,2.5,6.5,2912
+535,50,RM,Bnk,AllPub,Inside,Gtl,IDOTRR,Norm,1Fam,6,3,3.0,Unf,780,TA,1375,0,0,4,6,544,P,WD ,1.5,4.5,2155
+536,160,RM,Lvl,AllPub,Inside,Gtl,MeadowV,Norm,Twnhs,4,3,3.0,Unf,546,TA,1092,0,0,3,5,0,Y,WD ,1.5,4.5,1638
+537,50,RL,Bnk,AllPub,Inside,Gtl,Crawfor,Norm,1Fam,7,3,3.0,GLQ,832,Ex,2161,1,0,4,8,506,Y,WD ,2.5,5.5,2993
+538,20,RL,Lvl,AllPub,CulDSac,Gtl,CollgCr,Norm,1Fam,5,3,4.0,ALQ,1022,Gd,1022,0,1,3,6,747,Y,WD ,1.0,4.0,2044
+539,120,RH,Lvl,AllPub,Inside,Gtl,NAmes,Norm,TwnhsE,6,4,4.0,Unf,1337,Ex,1337,0,0,4,5,511,Y,WD ,2.0,4.0,2674
+540,80,RL,Lvl,AllPub,Inside,Gtl,ClearCr,Norm,1Fam,6,3,3.0,GLQ,1010,Gd,1052,1,0,3,6,440,Y,WD ,1.0,4.0,2062
+541,20,RL,Lvl,AllPub,Inside,Gtl,NAmes,Norm,1Fam,4,3,3.0,Unf,864,Gd,864,0,0,3,5,280,Y,Oth,1.0,4.0,1728
+542,180,RM,Lvl,AllPub,Inside,Gtl,MeadowV,Norm,TwnhsE,4,3,4.0,GLQ,630,TA,630,1,0,3,3,286,Y,WD ,1.0,2.0,1260
+543,120,RM,Lvl,AllPub,FR3,Gtl,Mitchel,Norm,TwnhsE,6,3,5.0,Rec,920,Ex,936,2,0,3,3,460,Y,WD ,0.5,0.5,1856
+544,60,RL,Lvl,AllPub,Inside,Gtl,SawyerW,Norm,1Fam,7,4,4.0,GLQ,807,Gd,1982,0,0,4,7,575,Y,WD ,2.5,5.5,2789
+545,60,RL,Lvl,AllPub,Inside,Gtl,NridgHt,Norm,1Fam,8,4,5.0,GLQ,1136,Ex,2468,1,0,4,10,872,Y,WD ,2.5,6.5,3604
+546,60,RL,Lvl,AllPub,Corner,Gtl,CollgCr,Norm,1Fam,7,3,4.0,GLQ,1108,Ex,2097,1,0,4,8,583,Y,WD ,2.5,5.5,3205
+547,20,RL,Lvl,AllPub,Inside,Gtl,NAmes,Norm,1Fam,5,3,3.0,Rec,720,Ex,882,1,0,4,4,240,Y,WD ,1.0,3.0,1602
+548,160,RM,Lvl,AllPub,Inside,Gtl,BrDale,Norm,Twnhs,6,3,3.0,Unf,483,TA,987,0,0,3,5,288,Y,WD ,1.5,3.5,1470
+549,20,RL,Lvl,AllPub,Inside,Gtl,NridgHt,Norm,1Fam,8,4,5.0,GLQ,1582,Ex,1582,1,0,4,7,905,Y,New,2.0,5.0,3164
+550,50,RM,Lvl,AllPub,Inside,Gtl,BrkSide,Norm,1Fam,5,3,3.0,ALQ,756,Gd,1281,1,0,4,6,379,Y,WD ,1.0,3.0,2037
+551,75,RL,Lvl,AllPub,Inside,Gtl,NoRidge,Norm,1Fam,8,4,4.0,Unf,1173,Ex,2199,0,0,4,9,516,Y,WD ,2.5,5.5,3372
+552,30,RM,Lvl,AllPub,Inside,Gtl,BrkSide,Norm,1Fam,5,3,0.0,Na,0,Gd,808,0,0,3,6,164,P,WD ,1.0,2.0,808
+553,60,RL,Low,AllPub,CulDSac,Sev,ClearCr,Norm,1Fam,5,3,3.0,LwQ,1013,TA,2126,0,1,3,7,538,Y,WD ,2.5,5.5,3139
+554,20,RL,Lvl,AllPub,FR2,Gtl,Somerst,Norm,1Fam,7,4,4.0,Unf,1417,Ex,1428,0,0,5,6,554,Y,New,2.0,5.0,2845
+555,45,RM,Bnk,AllPub,Inside,Gtl,OldTown,Street,1Fam,5,3,3.0,LwQ,672,Ex,840,0,0,3,5,0,N,WD ,1.0,4.0,1512
+556,120,RL,Lvl,AllPub,Inside,Mod,Edwards,Norm,TwnhsE,5,4,3.0,LwQ,1038,Gd,1038,0,0,3,5,264,Y,WD ,2.0,4.0,2076
+557,160,RL,Lvl,AllPub,FR2,Gtl,NPkVill,Norm,TwnhsE,6,3,4.0,ALQ,804,TA,1548,0,0,3,7,440,Y,WD ,2.5,5.5,2352
+558,50,RM,Lvl,AllPub,Inside,Gtl,OldTown,Norm,1Fam,6,3,2.0,Unf,648,TA,1118,0,0,3,6,440,Y,WD ,1.0,3.0,1766
+559,70,RL,Lvl,AllPub,Inside,Gtl,Crawfor,Norm,1Fam,6,3,3.0,Unf,697,Ex,1801,0,0,3,8,365,Y,WD ,1.5,4.5,2498
+560,20,RL,Lvl,AllPub,Inside,Gtl,NAmes,Norm,1Fam,5,3,3.0,BLQ,950,TA,950,0,0,3,5,280,Y,WD ,1.0,4.0,1900
+561,160,FV,Lvl,AllPub,Inside,Gtl,Somerst,Norm,TwnhsE,7,4,4.0,Unf,625,Ex,1250,0,0,4,5,625,Y,WD ,2.5,4.5,1875
+562,20,RL,Lvl,AllPub,Inside,Gtl,CollgCr,Norm,1Fam,6,4,4.0,ALQ,1200,Ex,1200,1,0,4,6,521,Y,WD ,2.0,5.0,2400
+563,80,RL,Lvl,AllPub,Inside,Gtl,NAmes,Norm,1Fam,5,3,3.0,ALQ,1141,Gd,1141,1,0,3,6,568,Y,WD ,1.0,4.0,2282
+564,120,RL,Lvl,AllPub,Inside,Gtl,NPkVill,Norm,TwnhsE,6,3,4.0,ALQ,1069,TA,1069,0,0,3,4,440,Y,COD,2.0,4.0,2138
+565,20,RL,Lvl,AllPub,CulDSac,Gtl,CollgCr,Norm,1Fam,5,3,4.0,LwQ,938,TA,938,1,0,3,5,308,Y,WD ,1.0,4.0,1876
+566,20,RL,Lvl,AllPub,Inside,Gtl,SawyerW,RRA,1Fam,5,3,4.0,Unf,1114,Ex,1114,0,0,4,6,0,Y,WD ,1.5,4.5,2228
+567,120,FV,Lvl,AllPub,Inside,Gtl,Somerst,Norm,TwnhsE,6,4,4.0,Unf,1726,Ex,1726,0,0,4,6,561,Y,New,2.5,4.5,3452
+568,45,RL,HLS,AllPub,Corner,Mod,NAmes,Street,1Fam,6,3,3.0,Unf,832,Gd,832,0,0,4,4,528,Y,WD ,1.0,3.0,1664
+569,70,RL,Lvl,AllPub,Inside,Gtl,Crawfor,Norm,1Fam,7,3,3.0,Unf,600,Ex,1228,0,0,3,6,215,Y,WD ,1.0,4.0,1828
+570,20,RL,Lvl,AllPub,Inside,Gtl,Mitchel,Norm,1Fam,5,3,4.0,Unf,1344,Ex,1344,0,0,3,7,686,Y,WD ,2.0,5.0,2688
+571,20,RL,Lvl,AllPub,Corner,Gtl,NAmes,Norm,1Fam,5,3,3.0,Rec,925,TA,925,1,0,4,5,252,Y,WD ,1.0,4.0,1850
+572,20,RL,HLS,AllPub,Inside,Mod,Edwards,Norm,1Fam,4,3,3.0,LwQ,876,TA,876,0,0,3,5,320,Y,WD ,1.0,4.0,1752
+573,85,RL,Lvl,AllPub,Corner,Gtl,CollgCr,Norm,1Fam,5,3,4.0,GLQ,870,Gd,965,1,0,3,4,580,Y,WD ,1.0,3.0,1835
+574,20,RL,Lvl,AllPub,Inside,Gtl,NAmes,Street,1Fam,6,3,3.0,LwQ,1395,Ex,1570,1,0,3,5,441,Y,WD ,1.0,4.0,2965
+575,30,RM,Lvl,AllPub,Inside,Gtl,IDOTRR,Norm,1Fam,6,3,3.0,Rec,894,TA,919,1,0,3,5,195,P,WD ,1.0,3.0,1813
+576,20,RL,Lvl,AllPub,Inside,Gtl,NWAmes,Norm,1Fam,6,4,3.0,ALQ,1258,Ex,1258,0,1,4,5,528,Y,COD,2.0,5.0,2516
+577,120,RM,Lvl,AllPub,Inside,Gtl,CollgCr,Norm,TwnhsE,6,4,4.0,GLQ,848,Ex,848,1,0,4,3,420,Y,WD ,1.0,2.0,1696
+578,60,RL,Lvl,AllPub,Inside,Gtl,Sawyer,Street,1Fam,5,3,4.0,BLQ,671,Fa,2654,0,0,3,11,638,Y,WD ,3.0,7.0,3325
+579,50,RM,Lvl,AllPub,Corner,Gtl,OldTown,Norm,1Fam,5,3,3.0,Unf,440,Gd,1230,0,0,3,5,440,Y,WD ,1.5,3.5,1670
+580,50,RL,Lvl,AllPub,Inside,Gtl,OldTown,Norm,1Fam,5,3,3.0,Unf,892,Ex,1436,0,1,3,7,1488,N,WD ,1.0,4.0,2328
+581,20,RL,Lvl,AllPub,Inside,Mod,Mitchel,Norm,1Fam,5,3,3.0,Rec,1104,Fa,1360,1,0,3,8,336,Y,WD ,1.0,4.0,2464
+582,60,RL,HLS,AllPub,CulDSac,Gtl,Gilbert,Norm,1Fam,7,4,4.0,GLQ,1700,Ex,2212,1,0,4,9,773,Y,New,2.5,5.5,3912
+583,30,RM,Lvl,AllPub,Corner,Gtl,OldTown,Street,1Fam,5,3,2.0,LwQ,1022,TA,1022,1,0,2,4,184,N,WD ,1.0,3.0,2044
+584,20,RL,Lvl,AllPub,Inside,Gtl,NAmes,Norm,1Fam,6,3,3.0,ALQ,1130,TA,1374,0,1,3,7,286,Y,WD ,1.0,4.0,2504
+585,20,RL,Lvl,AllPub,Inside,Gtl,NAmes,Norm,1Fam,6,3,3.0,ALQ,1261,Ex,1261,1,0,3,6,433,Y,WD ,1.0,4.0,2522
+586,85,RL,Lvl,AllPub,Inside,Gtl,Sawyer,Norm,1Fam,5,3,3.0,ALQ,1109,TA,1155,1,0,4,6,576,Y,WD ,1.0,4.0,2264
+587,20,RL,Lvl,AllPub,Corner,Gtl,Sawyer,Street,1Fam,4,3,3.0,ALQ,1040,TA,1120,1,0,2,5,544,Y,WD ,1.5,4.5,2160
+588,20,RL,Lvl,AllPub,Inside,Gtl,CollgCr,Norm,1Fam,8,4,5.0,GLQ,1838,Ex,1838,1,0,4,7,524,Y,WD ,2.0,5.0,3676
+589,20,FV,Lvl,AllPub,Inside,Gtl,Somerst,Norm,1Fam,7,4,4.0,GLQ,1492,Ex,1492,1,0,4,6,596,Y,WD ,2.0,5.0,2984
+590,50,RM,Lvl,AllPub,Inside,Gtl,OldTown,Norm,1Fam,5,3,3.0,Unf,240,TA,1306,0,0,4,6,472,N,WD ,1.5,4.5,1546
+591,85,RL,Lvl,AllPub,Inside,Gtl,Mitchel,Norm,1Fam,5,3,4.0,GLQ,796,TA,796,0,1,3,5,0,Y,WD ,1.0,3.0,1592
+592,20,RL,Lvl,AllPub,Inside,Gtl,NAmes,Norm,1Fam,5,3,3.0,Rec,1144,Gd,1144,1,0,3,6,456,Y,WD ,1.0,4.0,2288
+593,50,RL,Lvl,AllPub,Inside,Gtl,BrkSide,Norm,1Fam,5,3,3.0,Rec,883,Gd,1505,1,0,3,8,240,N,WD ,1.0,4.0,2388
+594,20,RL,Lvl,AllPub,Inside,Gtl,Timber,Norm,1Fam,9,5,5.0,GLQ,1838,Ex,1838,1,0,5,8,765,Y,WD ,2.0,4.0,3676
+595,60,RL,Lvl,AllPub,CulDSac,Gtl,NWAmes,Pos,1Fam,7,3,3.0,GLQ,752,TA,2067,0,0,4,7,784,Y,WD ,2.5,5.5,2819
+596,70,RM,Lvl,AllPub,Corner,Gtl,OldTown,Norm,1Fam,5,4,2.0,Unf,572,Ex,1540,0,0,4,7,0,N,WD ,1.5,4.5,2112
+597,20,RL,Lvl,AllPub,Inside,Gtl,Mitchel,Norm,1Fam,5,3,3.0,GLQ,816,Ex,816,1,0,3,4,816,Y,WD ,1.0,3.0,1632
+598,90,RM,Bnk,AllPub,Corner,Mod,IDOTRR,RRN,Duplex,5,2,4.0,LwQ,816,TA,816,1,0,3,5,516,Y,WD ,1.0,3.0,1632
+599,20,RL,Lvl,AllPub,FR2,Gtl,NridgHt,Norm,1Fam,9,5,5.0,GLQ,1790,Ex,1816,1,0,5,7,730,Y,New,2.0,5.0,3606
+600,50,RM,Lvl,AllPub,Inside,Gtl,BrkSide,Norm,1Fam,5,3,3.0,Unf,966,Ex,1426,0,0,3,6,230,Y,WD ,1.0,4.0,2392
+601,60,RL,Lvl,AllPub,Corner,Gtl,CollgCr,Norm,1Fam,7,4,4.0,Unf,944,Ex,1870,0,0,4,6,608,Y,WD ,2.5,5.5,2814
+602,20,RL,Bnk,AllPub,Inside,Gtl,CollgCr,Norm,1Fam,5,3,4.0,BLQ,864,TA,894,0,0,3,5,440,Y,WD ,1.0,4.0,1758
+603,60,RL,Lvl,AllPub,FR2,Gtl,NWAmes,Norm,1Fam,6,3,4.0,GLQ,796,TA,1574,1,0,3,6,566,Y,WD ,2.5,5.5,2370
+604,120,RL,Lvl,AllPub,Inside,Gtl,Blmngtn,Norm,TwnhsE,7,4,4.0,GLQ,1356,Ex,1500,1,0,4,6,648,Y,New,2.0,4.0,2856
+605,45,RL,Lvl,AllPub,Inside,Gtl,Crawfor,Norm,1Fam,5,3,3.0,Unf,768,Fa,789,0,0,3,5,200,Y,WD ,1.0,3.0,1557
+606,190,RM,Lvl,AllPub,Inside,Gtl,OldTown,Norm,2fmCon,5,3,3.0,GLQ,960,TA,960,1,0,3,5,576,Y,WD ,1.0,4.0,1920
+607,20,RL,Lvl,AllPub,Corner,Gtl,NAmes,Norm,1Fam,4,3,3.0,ALQ,882,TA,882,1,0,3,4,525,Y,WD ,1.0,3.0,1764
+608,20,RL,Lvl,AllPub,Corner,Gtl,Edwards,Norm,1Fam,6,3,4.0,GLQ,1212,Ex,1212,0,0,4,6,460,Y,WD ,2.0,5.0,2424
+609,50,RH,Lvl,AllPub,Corner,Gtl,SWISU,Norm,1Fam,5,3,3.0,LwQ,832,TA,1268,0,0,3,7,250,Y,WD ,1.5,4.5,2100
+610,50,RL,Lvl,AllPub,Inside,Gtl,Edwards,Norm,1Fam,5,3,3.0,Unf,585,Gd,1053,0,0,5,5,0,N,WD ,1.5,3.5,1638
+611,60,RL,Lvl,AllPub,Inside,Gtl,CollgCr,Norm,1Fam,8,4,5.0,GLQ,1466,Ex,2828,1,0,4,11,1052,Y,New,3.0,7.0,4294
+612,20,RL,Lvl,AllPub,Inside,Gtl,CollgCr,Norm,1Fam,7,3,4.0,GLQ,1418,Ex,1418,1,0,4,5,558,Y,WD ,2.0,5.0,2836
+613,20,RL,HLS,AllPub,Inside,Gtl,Crawfor,Norm,1Fam,5,3,0.0,Na,0,Fa,1226,0,0,3,7,400,Y,WD ,1.5,3.5,1226
+614,50,RL,Lvl,AllPub,Inside,Gtl,NAmes,Street,1Fam,6,3,3.0,ALQ,768,Ex,1320,0,0,3,5,576,Y,WD ,2.0,5.0,2088
+615,30,RM,Lvl,AllPub,Inside,Gtl,BrkSide,Norm,1Fam,2,2,3.0,Unf,264,Fa,800,0,0,2,4,0,N,ConLw,1.0,2.0,1064
+616,20,RL,Lvl,AllPub,Inside,Gtl,Gilbert,Norm,1Fam,7,4,4.0,GLQ,1340,Ex,1340,0,0,4,6,396,Y,New,2.0,5.0,2680
+617,60,RL,Lvl,AllPub,Inside,Gtl,CollgCr,Norm,1Fam,8,4,4.0,GLQ,1090,Ex,2214,1,0,4,8,646,Y,WD ,2.5,5.5,3304
+618,90,RL,Lvl,AllPub,Corner,Gtl,Edwards,Norm,Duplex,4,3,0.0,Na,0,TA,1152,0,0,2,6,0,N,WD ,2.0,4.0,1152
+619,80,RL,Lvl,AllPub,Inside,Gtl,Gilbert,Norm,1Fam,7,3,4.0,GLQ,384,Ex,1430,0,0,3,7,400,Y,WD ,2.5,5.5,1814
+620,20,RL,Lvl,AllPub,Inside,Gtl,CollgCr,Norm,1Fam,7,4,4.0,GLQ,1232,Ex,1232,1,0,4,6,632,Y,WD ,2.0,4.0,2464
+621,90,RL,Bnk,AllPub,Inside,Gtl,SawyerW,Norm,Duplex,5,3,0.0,Na,0,TA,1535,0,0,3,8,410,Y,WD ,2.0,6.0,1535
+622,50,RL,Lvl,AllPub,Inside,Gtl,NAmes,Norm,1Fam,5,3,3.0,Rec,1208,Gd,1904,1,0,3,7,240,Y,WD ,1.5,4.5,3112
+623,190,RL,Lvl,AllPub,Inside,Gtl,Sawyer,RRA,2fmCon,5,3,3.0,ALQ,890,Gd,890,1,0,3,5,308,Y,WD ,1.0,4.0,1780
+624,75,RM,Lvl,AllPub,Inside,Gtl,OldTown,Norm,1Fam,6,4,3.0,Unf,728,Gd,1456,0,0,4,7,308,N,WD ,1.5,5.5,2184
+625,90,RH,Lvl,AllPub,Inside,Gtl,SawyerW,Street,Duplex,5,3,0.0,Na,0,TA,2020,0,0,3,10,630,Y,WD ,2.0,6.0,2020
+626,60,RL,Lvl,AllPub,Inside,Gtl,CollgCr,Norm,1Fam,7,4,4.0,Unf,738,Ex,1476,0,0,4,7,552,Y,New,2.5,5.5,2214
+627,20,RL,Lvl,AllPub,Inside,Gtl,NAmes,Norm,1Fam,5,3,3.0,Unf,1065,Gd,1065,0,0,3,6,461,Y,COD,1.5,4.5,2130
+628,120,RL,Lvl,AllPub,CulDSac,Gtl,StoneBr,Norm,TwnhsE,8,4,5.0,GLQ,2208,Ex,2522,1,0,4,8,564,Y,WD ,2.0,3.0,4730
+629,20,RL,Lvl,AllPub,Inside,Gtl,SawyerW,RRA,1Fam,6,3,4.0,Unf,1131,Ex,1131,0,0,4,6,0,Y,New,1.5,4.5,2262
+630,90,RL,Lvl,AllPub,Inside,Gtl,Crawfor,Norm,Duplex,5,3,3.0,ALQ,1032,Ex,2177,0,0,3,11,484,Y,WD ,2.5,7.5,3209
+631,50,RL,Lvl,AllPub,Inside,Gtl,SWISU,Street,1Fam,6,3,3.0,Unf,804,Ex,2447,0,0,4,10,336,Y,WD ,2.0,6.0,3251
+632,20,RL,Lvl,AllPub,CulDSac,Gtl,CollgCr,Norm,1Fam,5,3,3.0,BLQ,864,Ex,864,1,0,3,5,338,Y,WD ,1.0,4.0,1728
+633,30,RL,Lvl,AllPub,Inside,Gtl,Edwards,Norm,1Fam,3,3,3.0,Rec,864,TA,864,1,0,3,5,200,Y,WD ,1.0,3.0,1728
+634,80,RL,Lvl,AllPub,Inside,Gtl,Timber,Norm,1Fam,5,3,4.0,Unf,384,Gd,1394,0,0,4,7,400,Y,WD ,2.5,5.5,1778
+635,160,FV,Lvl,AllPub,Corner,Gtl,Somerst,Norm,TwnhsE,6,4,4.0,GLQ,756,Ex,1512,1,0,4,5,440,Y,WD ,2.5,4.5,2268
+636,160,RM,Lvl,AllPub,Inside,Gtl,Edwards,Norm,Twnhs,6,4,4.0,Unf,970,Ex,1709,0,0,4,7,380,Y,WD ,2.0,5.0,2679
+637,20,RL,Lvl,AllPub,Inside,Gtl,NWAmes,Norm,1Fam,6,3,3.0,Unf,1444,TA,1444,0,0,3,5,473,Y,WD ,2.0,4.0,2888
+638,20,RL,Lvl,AllPub,Inside,Gtl,NAmes,Norm,1Fam,5,3,3.0,ALQ,1248,Ex,1248,1,0,3,6,286,Y,WD ,1.0,4.0,2496
+639,70,RM,Lvl,AllPub,Inside,Gtl,OldTown,Norm,1Fam,5,3,3.0,Unf,650,Gd,1539,0,0,4,8,686,P,WD ,2.0,5.0,2189
+640,20,RL,HLS,AllPub,Inside,Gtl,Timber,Norm,1Fam,9,4,5.0,GLQ,1620,Ex,1620,1,0,5,6,912,Y,WD ,2.0,4.0,3240
+641,85,RL,Lvl,AllPub,Inside,Gtl,Sawyer,Norm,1Fam,5,3,3.0,ALQ,840,TA,860,1,0,3,4,528,Y,WD ,1.0,3.0,1700
+642,20,FV,Lvl,AllPub,Corner,Gtl,Somerst,Norm,1Fam,6,4,5.0,GLQ,1468,Ex,1468,1,0,4,6,528,Y,WD ,2.0,4.0,2936
+643,20,RL,HLS,AllPub,Inside,Gtl,Timber,Norm,1Fam,8,4,4.0,Unf,1571,Ex,1571,0,0,4,7,722,Y,New,2.0,5.0,3142
+644,85,RL,Lvl,AllPub,Inside,Gtl,NWAmes,Pos,1Fam,6,3,4.0,BLQ,973,Ex,1082,1,0,3,6,480,Y,WD ,1.0,4.0,2055
+645,30,RM,Lvl,AllPub,Inside,Gtl,IDOTRR,Norm,1Fam,4,3,3.0,Unf,641,Gd,641,0,0,2,4,272,N,WD ,1.0,3.0,1282
+646,60,RL,Lvl,AllPub,Inside,Gtl,CollgCr,Norm,1Fam,8,4,4.0,Unf,1284,Ex,2169,0,0,4,7,647,Y,WD ,2.5,5.5,3453
+647,160,FV,Lvl,AllPub,FR2,Gtl,Somerst,Norm,Twnhs,7,4,4.0,ALQ,696,Ex,1416,1,0,4,6,484,Y,WD ,2.5,5.5,2112
+648,180,RM,Lvl,AllPub,Inside,Gtl,Edwards,Norm,TwnhsE,6,3,4.0,GLQ,547,Ex,1072,1,0,3,5,525,Y,WD ,1.0,3.0,1619
+649,60,RL,Lvl,AllPub,CulDSac,Gtl,Gilbert,RRA,1Fam,6,3,4.0,Unf,841,Ex,1675,0,0,3,7,502,Y,WD ,2.5,5.5,2516
+650,20,RL,Lvl,AllPub,Corner,Gtl,NAmes,Norm,1Fam,5,3,3.0,Rec,1175,Ex,1175,0,0,3,6,484,Y,WD ,1.5,4.5,2350
+651,20,RL,Lvl,AllPub,Inside,Gtl,OldTown,Norm,1Fam,5,3,3.0,Rec,833,Ex,833,0,0,4,4,326,Y,WD ,1.0,3.0,1666
+652,45,RM,Lvl,AllPub,Inside,Gtl,BrkSide,Norm,1Fam,5,3,3.0,Unf,993,TA,1048,0,0,3,5,280,Y,WD ,1.0,3.0,2041
+653,20,RL,Lvl,AllPub,FR2,Gtl,NAmes,Norm,1Fam,6,3,4.0,ALQ,1054,Gd,1054,1,0,3,6,460,Y,WD ,1.5,4.5,2108
+654,20,RL,Lvl,AllPub,Corner,Gtl,BrkSide,Street,1Fam,3,3,0.0,Na,0,TA,720,0,0,3,4,287,Y,WD ,1.0,3.0,720
+655,70,RL,Lvl,AllPub,Inside,Gtl,OldTown,Norm,1Fam,6,3,3.0,Rec,663,Ex,1595,0,0,3,7,528,Y,WD ,2.0,5.0,2258
+656,60,RL,Lvl,AllPub,Inside,Gtl,CollgCr,Norm,1Fam,7,4,4.0,Unf,847,Ex,1928,0,0,4,8,434,Y,WD ,2.5,6.5,2775
+657,90,RM,Lvl,AllPub,Inside,Gtl,OldTown,Norm,Duplex,6,3,3.0,LwQ,972,Gd,1944,1,0,3,12,324,N,WD ,2.0,6.0,2916
+658,60,RL,Lvl,AllPub,Inside,Gtl,NoRidge,Norm,1Fam,7,4,4.0,GLQ,1223,Ex,2127,1,0,4,5,525,Y,WD ,2.5,5.5,3350
+659,80,RL,Lvl,AllPub,Corner,Gtl,NAmes,Street,1Fam,6,3,3.0,Rec,1362,TA,1382,1,0,3,6,884,Y,WD ,1.0,4.0,2744
+660,80,RL,Lvl,AllPub,FR2,Gtl,NWAmes,Norm,1Fam,6,3,4.0,ALQ,1032,TA,1032,0,1,3,6,564,Y,WD ,2.0,5.0,2064
+661,50,RL,Lvl,AllPub,Inside,Gtl,SawyerW,Street,1Fam,6,3,3.0,Unf,1105,Ex,1822,0,0,4,7,515,P,WD ,2.0,6.0,2927
+662,20,RL,Lvl,AllPub,Inside,Gtl,NWAmes,Norm,1Fam,6,3,3.0,Rec,1740,Fa,1740,0,0,3,8,512,Y,WD ,1.5,5.5,3480
+663,60,RL,Lvl,AllPub,Corner,Gtl,NWAmes,Pos,1Fam,7,3,3.0,ALQ,795,Fa,2263,1,0,4,9,539,Y,WD ,2.5,5.5,3058
+664,60,RL,Lvl,AllPub,Inside,Gtl,NridgHt,Norm,1Fam,9,4,5.0,GLQ,1850,Ex,2748,1,0,5,9,850,Y,WD ,2.5,6.5,4598
+665,60,RL,Lvl,AllPub,Inside,Gtl,CollgCr,Norm,1Fam,7,4,4.0,Unf,1308,Ex,1876,0,0,4,7,848,Y,New,2.5,5.5,3184
+666,50,RL,Lvl,AllPub,Inside,Gtl,NAmes,Norm,1Fam,5,4,3.0,LwQ,1140,Gd,2461,0,0,3,7,400,Y,WD ,2.0,5.0,3601
+667,90,RL,Lvl,AllPub,Inside,Gtl,SWISU,Norm,Duplex,6,3,3.0,ALQ,960,Ex,1920,2,0,3,10,480,Y,WD ,3.0,7.0,2880
+668,20,RL,Lvl,AllPub,Inside,Gtl,Mitchel,Norm,1Fam,5,3,3.0,ALQ,1224,Ex,1224,1,0,3,7,576,Y,WD ,1.0,5.0,2448
+669,20,RL,Lvl,AllPub,Inside,Gtl,CollgCr,Norm,1Fam,8,4,4.0,GLQ,2000,Ex,2000,1,0,4,8,888,Y,WD ,2.0,5.0,4000
+670,20,FV,Lvl,AllPub,Inside,Gtl,Somerst,Norm,1Fam,8,4,4.0,GLQ,1363,Ex,1372,0,0,4,6,588,Y,New,2.0,5.0,2735
+671,160,FV,Lvl,AllPub,Inside,Gtl,Somerst,Norm,Twnhs,7,4,4.0,Unf,1376,Ex,3005,0,0,4,9,704,Y,WD ,2.5,5.5,4381
+672,60,RL,Lvl,AllPub,Inside,Gtl,NoRidge,Norm,1Fam,7,4,4.0,GLQ,975,Ex,1755,0,1,4,7,524,Y,WD ,2.5,5.5,2730
+673,50,RL,Lvl,AllPub,Inside,Gtl,BrkSide,Norm,1Fam,5,3,3.0,Rec,1024,TA,1738,0,0,3,6,240,P,WD ,2.0,5.0,2762
+674,85,RL,Lvl,AllPub,Inside,Gtl,Mitchel,Norm,1Fam,5,3,4.0,GLQ,912,TA,970,0,1,3,6,0,Y,WD ,1.0,4.0,1882
+675,20,RL,Lvl,AllPub,Inside,Gtl,NAmes,Norm,1Fam,5,3,3.0,ALQ,1086,Gd,1086,1,0,3,6,490,Y,WD ,1.0,4.0,2172
+676,50,RL,Lvl,AllPub,Inside,Gtl,Edwards,Norm,1Fam,5,3,3.0,LwQ,768,Gd,1716,0,0,3,8,281,Y,WD ,1.5,4.5,2484
+677,160,RM,Lvl,AllPub,Inside,Gtl,MeadowV,Norm,TwnhsE,4,3,3.0,BLQ,546,TA,1092,0,0,3,6,286,Y,WD ,1.5,4.5,1638
+678,50,RL,Lvl,AllPub,Inside,Gtl,Crawfor,Norm,1Fam,6,3,3.0,Unf,817,Gd,1550,0,0,3,7,318,P,WD ,1.5,4.5,2367
+679,20,RL,Bnk,AllPub,Inside,Gtl,CollgCr,Norm,1Fam,5,3,3.0,ALQ,780,Ex,780,0,0,3,4,352,Y,WD ,1.0,3.0,1560
+680,60,RL,Lvl,AllPub,Inside,Gtl,NoRidge,Norm,1Fam,8,4,4.0,GLQ,1779,Ex,2551,1,0,4,8,925,Y,WD ,2.5,6.5,4330
+681,20,RL,Lvl,AllPub,Corner,Gtl,NWAmes,Norm,1Fam,7,3,3.0,BLQ,1124,TA,1610,0,0,4,8,515,Y,WD ,2.0,5.0,2734
+682,60,RL,Lvl,AllPub,Inside,Gtl,Gilbert,Norm,1Fam,6,3,4.0,Unf,941,Ex,1644,0,0,3,7,460,Y,WD ,2.5,5.5,2585
+683,20,RL,Lvl,AllPub,Inside,Gtl,Somerst,RRA,1Fam,8,4,4.0,GLQ,1574,Ex,1574,0,0,4,7,824,Y,WD ,2.0,5.0,3148
+684,60,RL,Lvl,AllPub,Corner,Gtl,SawyerW,Norm,1Fam,6,4,4.0,ALQ,864,Ex,1820,0,0,4,7,492,Y,WD ,2.5,5.5,2684
+685,60,RL,Lvl,AllPub,Inside,Gtl,NWAmes,Norm,1Fam,6,3,3.0,ALQ,715,TA,1645,0,0,3,7,441,Y,WD ,2.0,6.0,2360
+686,20,RL,Lvl,AllPub,Inside,Gtl,SawyerW,Norm,1Fam,6,3,4.0,GLQ,1408,Ex,1679,1,0,4,7,575,Y,WD ,2.0,5.0,3087
+687,20,RL,HLS,AllPub,Inside,Gtl,StoneBr,Norm,1Fam,9,5,5.0,GLQ,1910,Ex,2000,1,0,5,8,722,Y,WD ,2.5,5.5,3910
+688,20,RL,Lvl,AllPub,Inside,Gtl,Crawfor,Street,1Fam,5,3,3.0,Rec,1112,Ex,1112,1,0,3,6,390,Y,WD ,1.0,3.0,2224
+689,60,RL,Lvl,AllPub,Inside,Gtl,SawyerW,Norm,1Fam,6,3,4.0,Unf,941,Ex,1837,0,0,3,7,688,Y,WD ,2.5,5.5,2778
+690,20,RL,Lvl,AllPub,Inside,Gtl,OldTown,Norm,1Fam,3,3,3.0,Unf,792,Gd,792,0,0,3,4,366,Y,WD ,1.0,3.0,1584
+691,20,RL,Lvl,AllPub,Corner,Gtl,Sawyer,Street,1Fam,5,3,3.0,Rec,912,Ex,912,1,0,4,6,315,Y,WD ,1.0,4.0,1824
+692,20,RL,Low,AllPub,Inside,Mod,StoneBr,Norm,1Fam,7,4,5.0,ALQ,1530,Ex,1530,1,0,4,7,430,Y,WD ,2.0,5.0,3060
+693,30,RM,Bnk,AllPub,Inside,Mod,IDOTRR,Norm,1Fam,6,3,3.0,Unf,1012,TA,1012,0,0,3,6,308,Y,WD ,1.0,3.0,2024
+694,120,RL,Low,AllPub,Inside,Mod,ClearCr,Norm,1Fam,7,3,4.0,GLQ,1453,Gd,1453,1,0,4,6,445,Y,WD ,1.5,3.5,2906
+695,20,RL,Lvl,AllPub,FR2,Gtl,NWAmes,Norm,1Fam,6,3,4.0,ALQ,1153,TA,1177,0,0,4,6,495,Y,WD ,2.0,5.0,2330
+696,60,RL,HLS,AllPub,Corner,Gtl,Timber,Norm,1Fam,7,3,5.0,Unf,846,Gd,1692,0,0,4,6,650,Y,New,2.5,5.5,2538
+697,60,RL,Lvl,AllPub,Inside,Gtl,NridgHt,Norm,1Fam,8,4,5.0,GLQ,1524,Ex,2358,1,0,5,10,784,Y,New,2.5,6.5,3882
+698,90,RL,Lvl,AllPub,Inside,Gtl,Edwards,Norm,Duplex,5,3,4.0,GLQ,864,Fa,864,1,0,3,4,0,Y,WD ,1.0,3.0,1728
+699,20,RL,Lvl,AllPub,FR2,Gtl,CollgCr,Norm,1Fam,8,4,4.0,BLQ,1657,Ex,1668,1,0,4,8,502,Y,WD ,2.0,5.0,3325
+700,120,RM,Lvl,AllPub,Inside,Gtl,CollgCr,Norm,TwnhsE,6,4,4.0,GLQ,848,Ex,848,1,0,4,3,420,Y,WD ,1.0,2.0,1696
+701,20,RL,Lvl,AllPub,Inside,Gtl,Edwards,Norm,1Fam,4,3,4.0,GLQ,1132,Ex,1132,1,0,4,5,451,Y,WD ,1.5,3.5,2264
+702,90,RL,Lvl,AllPub,Inside,Gtl,SawyerW,Norm,Duplex,6,3,0.0,Na,0,TA,1882,0,0,3,8,612,Y,WD ,2.0,6.0,1882
+703,20,RH,Lvl,AllPub,Inside,Gtl,NAmes,Street,1Fam,5,3,3.0,Rec,882,TA,896,0,0,3,5,730,Y,WD ,1.0,3.0,1778
+704,20,RL,Lvl,AllPub,Inside,Gtl,Veenker,Norm,1Fam,7,4,4.0,GLQ,2002,Ex,2362,1,0,4,8,546,Y,WD ,2.5,5.5,4364
+705,20,RL,Lvl,AllPub,Corner,Gtl,NAmes,Norm,1Fam,7,4,3.0,ALQ,2110,Ex,2110,1,0,5,8,522,Y,WD ,2.5,5.5,4220
+706,80,RL,Lvl,AllPub,Corner,Gtl,Mitchel,Norm,1Fam,6,3,4.0,ALQ,1029,TA,1062,1,0,3,5,539,Y,WD ,1.0,4.0,2091
+707,20,RL,Lvl,AllPub,Inside,Gtl,NAmes,Norm,1Fam,5,3,3.0,LwQ,1268,Gd,1268,0,0,3,7,244,Y,WD ,1.0,3.0,2536
+708,20,RL,Lvl,AllPub,Inside,Gtl,NAmes,Norm,1Fam,4,3,3.0,Unf,1005,TA,1005,0,0,2,5,672,Y,WD ,1.0,3.0,2010
+709,20,RL,Lvl,AllPub,Inside,Gtl,NridgHt,Pos,1Fam,9,4,5.0,GLQ,1698,Ex,1698,0,0,5,7,730,Y,WD ,2.0,5.0,3396
+710,20,FV,Lvl,AllPub,Inside,Gtl,Somerst,Norm,1Fam,7,4,4.0,GLQ,1553,Ex,1553,1,0,4,6,588,Y,WD ,2.0,5.0,3106
+711,190,RM,Lvl,AllPub,Inside,Gtl,OldTown,Norm,2fmCon,4,3,3.0,Unf,736,Gd,1452,0,0,3,8,0,N,New,2.0,4.0,2188
+712,20,RL,Lvl,AllPub,Inside,Gtl,NAmes,Norm,1Fam,5,3,3.0,ALQ,1056,Ex,1216,1,0,3,7,280,Y,WD ,1.0,4.0,2272
+713,20,RL,Lvl,AllPub,Corner,Gtl,NAmes,Norm,1Fam,5,3,3.0,BLQ,1096,Ex,1096,1,0,3,6,299,Y,WD ,1.0,4.0,2192
+714,50,RM,Lvl,AllPub,Inside,Gtl,BrkSide,Street,1Fam,5,3,3.0,ALQ,672,Ex,1210,0,0,4,6,240,P,WD ,1.0,4.0,1882
+715,50,RL,Bnk,AllPub,Inside,Gtl,ClearCr,Norm,1Fam,6,3,3.0,Unf,907,TA,2358,0,0,3,10,360,Y,WD ,3.0,8.0,3265
+716,60,RL,Lvl,AllPub,Inside,Mod,Timber,Norm,1Fam,7,4,4.0,GLQ,1210,Ex,2519,1,0,4,9,628,Y,WD ,2.5,6.5,3729
+717,160,FV,Lvl,AllPub,Inside,Gtl,Somerst,Norm,Twnhs,8,4,4.0,GLQ,970,Ex,1739,1,0,4,7,480,Y,WD ,2.5,5.5,2709
+718,80,RL,Lvl,AllPub,Inside,Gtl,NAmes,Norm,1Fam,6,3,3.0,BLQ,992,Gd,1661,1,0,4,8,377,Y,WD ,1.0,4.0,2653
+719,30,RL,Lvl,AllPub,Inside,Gtl,NAmes,Norm,1Fam,7,4,3.0,Unf,929,Ex,2039,1,0,3,7,791,Y,COD,1.5,4.5,2968
+720,20,RL,Lvl,AllPub,Inside,Gtl,CollgCr,Norm,1Fam,7,4,4.0,GLQ,1436,Ex,1436,1,0,4,8,484,Y,WD ,2.0,5.0,2872
+721,60,FV,Lvl,AllPub,Inside,Gtl,Somerst,Norm,1Fam,8,4,5.0,Unf,1053,Ex,1992,0,0,4,9,648,Y,WD ,2.5,5.5,3045
+722,80,RL,Lvl,AllPub,Inside,Gtl,CollgCr,Norm,1Fam,5,4,4.0,GLQ,985,TA,985,0,0,3,6,328,Y,WD ,2.0,5.0,1970
+723,160,RM,Lvl,AllPub,Inside,Gtl,BrDale,Norm,Twnhs,5,3,3.0,ALQ,630,TA,1302,0,0,3,6,264,Y,WD ,2.5,5.5,1932
+724,60,RL,Lvl,AllPub,FR2,Gtl,NoRidge,Norm,1Fam,8,4,4.0,GLQ,1145,Ex,2198,1,0,4,9,836,Y,WD ,2.5,6.5,3343
+725,20,RL,Lvl,AllPub,Inside,Gtl,Mitchel,Norm,1Fam,5,4,4.0,GLQ,1441,Ex,1392,0,0,4,6,650,Y,WD ,2.0,5.0,2833
+726,20,RL,Lvl,AllPub,Inside,Gtl,NWAmes,Norm,1Fam,7,3,3.0,ALQ,1386,TA,1411,0,0,3,6,544,Y,WD ,2.0,5.0,2797
+727,20,RL,Lvl,AllPub,Inside,Gtl,NAmes,Norm,1Fam,5,3,3.0,Unf,938,Ex,1043,0,0,3,5,273,Y,WD ,1.0,3.0,1981
+728,20,RL,Lvl,AllPub,Corner,Gtl,NridgHt,Norm,1Fam,8,4,4.0,Unf,1618,Ex,1618,0,0,4,6,880,Y,WD ,2.0,4.0,3236
+729,50,RM,Lvl,AllPub,Inside,Gtl,OldTown,Norm,1Fam,4,3,2.0,LwQ,570,Gd,1141,0,0,3,6,252,Y,ConLw,1.0,4.0,1711
+730,20,FV,Lvl,AllPub,Inside,Gtl,Somerst,Norm,1Fam,8,4,4.0,GLQ,1300,Ex,1314,1,0,4,6,552,Y,New,2.0,5.0,2614
+731,60,RL,Lvl,AllPub,Inside,Gtl,Gilbert,Norm,1Fam,6,3,4.0,Unf,936,Ex,1792,1,0,3,8,451,Y,WD ,2.5,5.5,2728
+732,60,RL,Lvl,AllPub,Inside,Gtl,CollgCr,Norm,1Fam,8,4,4.0,Unf,1068,Ex,2184,0,0,4,8,570,Y,WD ,2.5,6.5,3252
+733,90,RL,Lvl,AllPub,Inside,Gtl,Mitchel,Norm,Duplex,6,3,4.0,GLQ,975,TA,1004,1,0,3,4,504,Y,WD ,1.0,3.0,1979
+734,20,RL,Lvl,AllPub,Corner,Gtl,NAmes,Norm,1Fam,5,3,3.0,Rec,1617,Fa,1797,0,0,3,7,963,Y,WD ,1.5,4.5,3414
+735,50,RL,Lvl,AllPub,Inside,Gtl,Mitchel,Norm,1Fam,5,3,4.0,GLQ,796,Ex,1362,1,0,3,5,480,Y,WD ,1.5,2.5,2158
+736,50,RM,Lvl,AllPub,Corner,Gtl,OldTown,Norm,1Fam,5,3,3.0,Rec,904,Ex,1499,0,0,3,5,869,Y,WD ,1.0,4.0,2403
+737,60,RL,Lvl,AllPub,CulDSac,Gtl,NWAmes,Norm,1Fam,6,3,3.0,BLQ,723,TA,1395,0,1,3,6,497,Y,WD ,1.5,4.5,2118
+738,20,RL,Lvl,AllPub,Inside,Gtl,Sawyer,Norm,1Fam,6,3,3.0,GLQ,1059,TA,1068,0,1,3,6,264,Y,WD ,1.0,4.0,2127
+739,20,RL,Lvl,AllPub,Inside,Gtl,NAmes,Norm,1Fam,5,3,3.0,Rec,1206,Fa,1206,0,0,3,6,312,Y,WD ,1.0,4.0,2412
+740,20,RL,Lvl,AllPub,Inside,Gtl,CollgCr,Norm,1Fam,7,4,4.0,GLQ,1494,Ex,1494,1,0,4,6,530,Y,WD ,2.0,5.0,2988
+741,60,RL,Lvl,AllPub,CulDSac,Gtl,NWAmes,Pos,1Fam,5,3,3.0,ALQ,780,Ex,1868,1,0,4,9,484,Y,WD ,2.5,6.5,2648
+742,20,RL,Lvl,AllPub,Inside,Mod,Edwards,Norm,1Fam,5,3,3.0,Rec,1216,Ex,1526,0,0,3,7,364,Y,WD ,1.0,5.0,2742
+743,50,RM,Lvl,AllPub,Inside,Gtl,OldTown,Street,1Fam,5,3,3.0,Rec,1008,TA,1245,0,0,3,6,315,Y,WD ,1.0,4.0,2253
+744,60,RL,Lvl,AllPub,Corner,Gtl,Gilbert,Norm,1Fam,6,5,4.0,ALQ,680,Gd,1470,0,0,3,6,420,Y,WD ,2.5,5.5,2150
+745,80,RL,Lvl,AllPub,Inside,Gtl,ClearCr,Norm,1Fam,5,3,3.0,Unf,825,Ex,2071,0,1,3,9,336,Y,WD ,1.5,5.5,2896
+746,60,RL,Lvl,AllPub,Inside,Gtl,CollgCr,Norm,1Fam,7,3,4.0,ALQ,878,Ex,1692,0,0,3,8,513,Y,WD ,2.5,5.5,2570
+747,60,RL,Lvl,AllPub,Inside,Gtl,NWAmes,Pos,1Fam,6,3,3.0,Rec,1008,TA,2411,1,0,3,8,570,Y,WD ,2.5,6.5,3419
+748,50,RM,Bnk,AllPub,Inside,Gtl,OldTown,Street,1Fam,6,3,3.0,Rec,818,TA,1224,0,0,3,5,210,N,WD ,1.0,4.0,2042
+749,20,RL,Lvl,AllPub,Inside,Gtl,Timber,Norm,1Fam,8,4,5.0,GLQ,1868,Ex,2028,1,0,4,7,880,Y,New,2.0,4.0,3896
+750,20,RL,Lvl,AllPub,Inside,Gtl,Somerst,Pos,1Fam,8,4,4.0,Unf,1696,Ex,1696,0,0,4,7,972,Y,WD ,2.0,5.0,3392
+751,50,RM,Lvl,AllPub,Inside,Gtl,OldTown,Norm,1Fam,5,3,3.0,Rec,1212,Gd,1668,1,0,3,6,240,Y,WD ,1.0,4.0,2880
+752,160,RL,Lvl,AllPub,Inside,Gtl,NPkVill,Norm,Twnhs,6,3,4.0,ALQ,855,Fa,1456,0,0,3,7,440,Y,WD ,2.5,5.5,2311
+753,80,RL,Lvl,AllPub,Corner,Gtl,NAmes,Norm,1Fam,6,3,3.0,Rec,1127,TA,1445,0,0,3,7,645,Y,WD ,1.5,4.5,2572
+754,20,RL,HLS,AllPub,Inside,Mod,Mitchel,Norm,1Fam,4,3,3.0,ALQ,1064,Gd,1040,1,0,3,5,648,Y,WD ,1.0,4.0,2104
+755,160,RM,Lvl,AllPub,Inside,Gtl,BrDale,Norm,Twnhs,6,3,3.0,Unf,672,Ex,1218,0,0,5,7,264,Y,WD ,1.5,5.5,1890
+756,20,RL,Lvl,AllPub,Inside,Gtl,NridgHt,Norm,1Fam,9,5,5.0,GLQ,2552,Ex,2552,1,0,5,8,932,Y,New,2.0,5.0,5104
+757,50,C (all),Lvl,AllPub,Corner,Gtl,IDOTRR,Street,1Fam,4,3,1.0,Unf,356,TA,1049,0,0,3,5,195,N,WD ,1.0,3.0,1405
+758,60,RL,Lvl,AllPub,Inside,Gtl,Edwards,Norm,1Fam,5,3,4.0,GLQ,734,Gd,1408,1,0,3,6,489,Y,WD ,2.5,5.5,2142
+759,120,RL,Lvl,AllPub,Inside,Gtl,NridgHt,Norm,TwnhsE,8,4,4.0,GLQ,1324,Ex,1324,0,0,4,6,550,Y,New,2.0,4.0,2648
+760,85,RL,Lvl,AllPub,Inside,Gtl,Mitchel,Norm,1Fam,6,3,3.0,ALQ,902,Ex,926,1,0,3,5,351,Y,WD ,1.0,3.0,1828
+761,60,RL,Lvl,AllPub,Inside,Gtl,CollgCr,Norm,1Fam,7,4,4.0,Unf,1040,Ex,2098,0,0,4,9,621,Y,WD ,2.5,6.5,3138
+762,20,RL,Lvl,AllPub,Inside,Gtl,Sawyer,Norm,1Fam,4,3,3.0,Rec,1051,Gd,1382,0,0,3,6,459,Y,WD ,1.5,4.5,2433
+763,20,RL,Lvl,AllPub,Inside,Gtl,Crawfor,Norm,1Fam,6,3,3.0,GLQ,1477,Ex,1839,1,0,4,7,416,Y,WD ,2.0,5.0,3316
+764,60,RM,Lvl,AllPub,Inside,Gtl,OldTown,Norm,2fmCon,6,3,3.0,Rec,1242,Gd,1984,0,0,3,8,360,Y,WD ,2.0,7.0,3226
+765,20,RL,Lvl,AllPub,Corner,Gtl,Timber,Norm,1Fam,8,4,5.0,GLQ,1728,Ex,1960,1,0,4,8,714,Y,New,2.0,5.0,3688
+766,80,RL,Lvl,AllPub,Inside,Gtl,Gilbert,Norm,1Fam,7,3,4.0,GLQ,384,Gd,1628,0,0,3,7,390,Y,WD ,2.5,5.5,2012
+767,20,RL,Lvl,AllPub,FR2,Gtl,CollgCr,Norm,1Fam,7,4,4.0,GLQ,1169,Ex,1190,1,0,4,5,578,Y,WD ,2.0,4.0,2359
+768,60,RL,Lvl,AllPub,Inside,Gtl,Timber,Norm,1Fam,8,4,4.0,GLQ,1482,Ex,2262,1,0,4,10,749,Y,WD ,2.5,6.5,3744
+769,20,RL,Lvl,AllPub,Inside,Gtl,Gilbert,Norm,1Fam,6,3,4.0,Unf,1181,Ex,1190,0,0,4,6,430,Y,WD ,2.0,5.0,2371
+770,60,RL,Lvl,AllPub,CulDSac,Gtl,NoRidge,Norm,1Fam,7,4,4.0,GLQ,1117,Ex,2013,1,0,3,8,455,Y,WD ,2.5,5.5,3130
+771,20,RL,Lvl,AllPub,Corner,Gtl,NAmes,Pos,1Fam,7,3,0.0,Na,0,Gd,1472,0,0,4,5,484,Y,WD ,2.0,4.0,1472
+772,90,RL,Lvl,AllPub,Inside,Gtl,NAmes,Norm,Duplex,5,3,3.0,GLQ,1728,TA,1728,0,1,3,10,352,Y,WD ,2.0,8.0,3456
+773,20,RL,Lvl,AllPub,Corner,Gtl,NAmes,Norm,1Fam,6,3,3.0,BLQ,1205,Ex,2117,0,0,3,7,550,Y,WD ,2.5,6.5,3322
+774,50,RL,HLS,AllPub,Inside,Gtl,Crawfor,Street,1Fam,5,3,3.0,Unf,884,TA,1374,0,0,3,6,225,Y,WD ,1.0,4.0,2258
+775,90,RL,Lvl,AllPub,Inside,Gtl,NWAmes,RRA,Duplex,5,3,3.0,Unf,1625,Ex,1625,0,0,3,8,484,Y,ConLD,2.0,6.0,3250
+776,60,RL,HLS,AllPub,Corner,Gtl,Timber,Norm,1Fam,7,4,4.0,Unf,796,Ex,1612,0,0,4,6,666,Y,New,2.5,5.5,2408
+777,20,RL,Lvl,AllPub,CulDSac,Gtl,NAmes,Norm,1Fam,6,3,3.0,BLQ,958,TA,958,0,0,3,5,301,Y,WD ,1.0,3.0,1916
+778,50,RL,Lvl,AllPub,Inside,Gtl,Edwards,Norm,1Fam,4,3,3.0,Unf,941,Ex,1470,0,0,3,7,548,Y,WD ,2.0,6.0,2411
+779,90,RL,Lvl,AllPub,Inside,Gtl,SWISU,Norm,Duplex,5,3,3.0,Rec,1296,Fa,2592,2,0,3,12,0,Y,WD ,2.0,8.0,3888
+780,160,FV,Lvl,AllPub,Inside,Gtl,Somerst,Norm,TwnhsE,6,4,4.0,GLQ,756,Ex,1512,0,0,4,4,440,Y,WD ,2.5,4.5,2268
+781,60,RL,HLS,AllPub,Corner,Gtl,StoneBr,Norm,1Fam,9,4,5.0,Unf,1390,Ex,2795,0,0,5,10,660,Y,New,3.5,7.5,4185
+782,70,RM,Lvl,AllPub,Corner,Gtl,IDOTRR,Norm,1Fam,5,3,3.0,Unf,596,TA,1192,0,0,3,6,189,N,WD ,1.0,4.0,1788
+783,85,RL,Lvl,AllPub,Inside,Gtl,CollgCr,Norm,1Fam,5,3,4.0,GLQ,768,Gd,768,0,1,3,5,396,Y,WD ,1.0,3.0,1536
+784,50,RL,Lvl,AllPub,Inside,Mod,BrkSide,Street,1Fam,4,3,3.0,ALQ,747,TA,1230,1,0,3,5,305,Y,WD ,1.5,4.5,1977
+785,20,RL,Lvl,AllPub,Inside,Gtl,Sawyer,Pos,1Fam,5,3,4.0,BLQ,1383,TA,1383,1,0,3,6,354,Y,WD ,1.0,4.0,2766
+786,20,RL,Lvl,AllPub,Inside,Gtl,CollgCr,Norm,1Fam,8,4,4.0,Unf,1643,Ex,1651,0,0,4,7,870,Y,New,2.0,5.0,3294
+787,160,RM,Lvl,AllPub,CulDSac,Gtl,Blueste,Norm,Twnhs,6,3,4.0,GLQ,516,TA,1032,0,0,3,5,462,Y,WD ,1.0,3.0,1548
+788,50,RL,Lvl,AllPub,CulDSac,Gtl,Mitchel,Norm,1Fam,7,4,5.0,GLQ,1434,Ex,2149,1,0,4,6,670,Y,WD ,1.5,2.5,3583
+789,20,RL,Lvl,AllPub,Inside,Gtl,NAmes,Norm,1Fam,5,3,3.0,ALQ,1248,TA,1440,1,0,4,7,480,Y,WD ,2.0,4.0,2688
+790,85,RL,Lvl,AllPub,Inside,Gtl,NWAmes,Norm,1Fam,7,3,4.0,GLQ,1053,TA,1173,1,0,4,6,528,Y,WD ,2.0,5.0,2226
+791,20,RL,Lvl,AllPub,Inside,Gtl,CollgCr,Norm,1Fam,7,4,4.0,GLQ,1654,Ex,1654,1,0,4,6,900,Y,WD ,2.0,5.0,3308
+792,20,RL,Lvl,AllPub,Inside,Gtl,SawyerW,Norm,1Fam,6,4,4.0,GLQ,1298,TA,1298,1,0,4,5,403,Y,WD ,2.0,5.0,2596
+793,60,RL,Lvl,AllPub,Inside,Gtl,NoRidge,Norm,1Fam,8,4,4.0,LwQ,1231,Ex,2349,1,0,4,9,762,Y,WD ,2.5,6.5,3580
+794,20,RL,Lvl,AllPub,Inside,Gtl,ClearCr,Street,1Fam,5,3,4.0,Rec,1422,Gd,1675,0,0,3,8,365,Y,WD ,2.0,5.0,3097
+795,120,RL,Lvl,AllPub,Inside,Gtl,Greens,Norm,TwnhsE,8,4,4.0,GLQ,1057,TA,1295,1,0,4,4,571,Y,WD ,1.0,2.0,2352
+796,120,RM,Bnk,AllPub,Inside,Mod,Blueste,Norm,TwnhsE,8,3,4.0,GLQ,1004,Gd,1020,1,0,3,4,509,Y,WD ,1.0,2.0,2024
+797,20,RL,Lvl,AllPub,Inside,Gtl,NridgHt,Norm,1Fam,7,4,4.0,Unf,1502,Ex,1502,0,0,4,7,644,Y,New,2.0,5.0,3004
+798,20,RL,Lvl,AllPub,Inside,Gtl,CollgCr,Norm,1Fam,7,4,4.0,GLQ,1604,Ex,1604,1,0,4,8,660,Y,WD ,2.5,5.5,3208
+799,60,RL,Lvl,AllPub,Inside,Gtl,NWAmes,Pos,1Fam,7,3,4.0,ALQ,780,TA,1930,1,0,4,9,481,Y,WD ,2.5,6.5,2710
+800,20,RL,Lvl,AllPub,Inside,Gtl,NAmes,Norm,1Fam,5,3,3.0,LwQ,1029,TA,1339,0,0,3,6,294,Y,COD,1.0,4.0,2368
+801,30,RM,Lvl,AllPub,Corner,Gtl,IDOTRR,Norm,1Fam,6,3,3.0,LwQ,984,TA,984,0,0,3,6,308,N,ConLI,1.0,4.0,1968
+802,80,RL,Lvl,AllPub,Inside,Gtl,Gilbert,Norm,1Fam,7,3,3.0,Unf,384,Ex,1430,0,0,3,7,410,Y,WD ,2.5,5.5,1814
+803,70,C (all),Lvl,AllPub,Inside,Gtl,SWISU,Norm,1Fam,4,3,3.0,Rec,707,TA,1884,0,0,3,7,0,N,WD ,1.5,5.5,2591
+804,60,RL,Lvl,AllPub,FR3,Gtl,Gilbert,Norm,1Fam,7,4,4.0,Unf,1035,Gd,2322,0,0,4,8,617,Y,New,3.5,7.5,3357
+805,30,RM,Lvl,AllPub,Inside,Gtl,BrkSide,Norm,1Fam,5,3,3.0,Rec,768,TA,1015,0,0,3,6,450,Y,WD ,1.0,4.0,1783
+806,30,RM,HLS,AllPub,Inside,Gtl,BrkSide,Norm,1Fam,5,3,3.0,Unf,949,Ex,949,0,0,3,5,370,Y,WD ,1.0,3.0,1898
+807,60,RL,Lvl,AllPub,Inside,Gtl,Gilbert,RRA,1Fam,7,4,4.0,Unf,728,Ex,1456,0,0,4,8,390,Y,WD ,2.5,5.5,2184
+808,70,RL,Bnk,AllPub,Inside,Gtl,Crawfor,Norm,1Fam,6,3,3.0,BLQ,644,Ex,1316,1,0,3,6,369,P,WD ,1.0,3.0,1960
+809,20,RL,Lvl,AllPub,Corner,Gtl,NAmes,Street,1Fam,5,3,3.0,BLQ,864,TA,864,1,0,3,5,624,Y,WD ,1.0,4.0,1728
+810,20,RL,Lvl,AllPub,Inside,Gtl,NAmes,Norm,1Fam,5,4,3.0,ALQ,1169,TA,1144,1,0,3,6,286,Y,WD ,1.0,4.0,2313
+811,60,RL,Lvl,AllPub,Inside,Gtl,NoRidge,Norm,1Fam,8,4,4.0,GLQ,1290,Ex,2494,1,0,4,9,803,Y,WD ,2.5,6.5,3784
+812,60,RL,Lvl,AllPub,CulDSac,Gtl,Sawyer,Norm,1Fam,6,3,3.0,Rec,672,TA,1386,0,0,3,6,440,Y,WD ,2.5,5.5,2058
+813,90,RL,Lvl,AllPub,Inside,Gtl,NAmes,Norm,Duplex,5,3,3.0,BLQ,1728,TA,1728,2,0,3,10,0,Y,Oth,2.0,8.0,3456
+814,120,RL,Lvl,AllPub,Inside,Gtl,NridgHt,Norm,TwnhsE,7,4,4.0,GLQ,1350,Ex,1358,1,0,4,6,484,Y,New,2.0,4.0,2708
+815,20,FV,Lvl,AllPub,Inside,Gtl,Somerst,Norm,1Fam,7,4,5.0,Unf,1372,Ex,1372,0,0,4,6,529,Y,New,2.0,5.0,2744
+816,20,RL,Bnk,AllPub,Corner,Mod,Crawfor,Pos,1Fam,6,3,3.0,LwQ,1310,Ex,1906,1,0,3,6,576,Y,WD ,1.5,4.5,3216
+817,30,RM,Lvl,AllPub,Inside,Gtl,OldTown,Norm,1Fam,4,3,2.0,Unf,641,Gd,1047,0,0,3,6,273,N,WD ,1.0,3.0,1688
+818,20,RL,HLS,AllPub,Inside,Gtl,Edwards,Norm,1Fam,4,3,3.0,Rec,960,TA,960,1,0,3,6,432,P,WD ,1.0,4.0,1920
+819,60,RL,Lvl,AllPub,CulDSac,Gtl,SawyerW,Norm,1Fam,6,3,4.0,Rec,676,TA,1400,0,0,3,6,465,Y,WD ,2.5,5.5,2076
+820,20,RL,Lvl,AllPub,Inside,Gtl,ClearCr,Norm,1Fam,6,3,4.0,LwQ,1388,Gd,1388,1,0,3,6,522,Y,COD,2.0,5.0,2776
+821,20,RL,Lvl,AllPub,Inside,Gtl,Sawyer,Norm,1Fam,5,3,3.0,Rec,894,TA,894,0,0,3,5,384,Y,WD ,1.0,4.0,1788
+822,60,RL,Lvl,AllPub,Inside,Gtl,NoRidge,Norm,1Fam,9,4,4.0,BLQ,1848,Ex,2786,1,0,4,10,636,Y,WD ,2.5,6.5,4634
+823,190,RM,Lvl,AllPub,Inside,Gtl,OldTown,Norm,2fmCon,4,4,3.0,Unf,938,Gd,1951,0,0,2,9,576,P,WD ,2.0,6.0,2889
+824,160,FV,Lvl,AllPub,Inside,Gtl,Somerst,Norm,Twnhs,7,4,4.0,GLQ,672,Ex,1404,1,0,4,5,462,Y,WD ,2.5,5.5,2076
+825,50,RL,Lvl,AllPub,CulDSac,Gtl,Timber,Norm,1Fam,7,4,4.0,LwQ,1156,Ex,1717,0,0,4,7,400,Y,WD ,2.5,5.5,2873
+826,60,FV,Lvl,AllPub,Corner,Gtl,Somerst,Street,1Fam,9,4,5.0,GLQ,2036,Ex,2640,1,0,5,11,792,Y,New,3.5,6.5,4676
+827,20,RL,Lvl,AllPub,Corner,Gtl,NAmes,Norm,1Fam,5,3,3.0,BLQ,1118,Ex,1118,1,0,4,6,264,Y,WD ,1.0,4.0,2236
+828,90,RL,Lvl,AllPub,Inside,Gtl,Mitchel,Norm,Duplex,6,3,3.0,Rec,1728,TA,1728,0,0,3,8,574,Y,WD ,2.0,6.0,3456
+829,20,RL,Lvl,AllPub,Inside,Gtl,NAmes,Norm,1Fam,5,3,3.0,Rec,1232,TA,1232,1,0,3,6,490,Y,WD ,1.5,4.5,2464
+830,120,RL,Lvl,AllPub,Inside,Gtl,Blmngtn,Norm,TwnhsE,7,4,4.0,GLQ,1145,Ex,1145,0,0,4,5,397,Y,WD ,2.0,4.0,2290
+831,20,RL,Lvl,AllPub,Inside,Gtl,NAmes,Norm,1Fam,6,3,3.0,Rec,1383,TA,1383,0,0,3,7,292,Y,WD ,1.5,4.5,2766
+832,20,RL,Lvl,AllPub,Inside,Gtl,CollgCr,Norm,1Fam,8,4,5.0,GLQ,1822,Ex,1828,1,0,4,7,523,Y,WD ,2.0,5.0,3650
+833,120,RL,Lvl,AllPub,Inside,Gtl,NridgHt,Norm,TwnhsE,8,4,4.0,GLQ,1342,Ex,1342,0,0,4,6,550,Y,WD ,2.0,4.0,2684
+834,20,RL,Lvl,AllPub,Corner,Gtl,Crawfor,Street,1Fam,6,3,3.0,Rec,1091,Fa,1091,0,1,3,5,344,Y,WD ,1.0,3.0,2182
+835,20,RL,Lvl,AllPub,Inside,Gtl,Sawyer,RRA,1Fam,5,3,3.0,BLQ,984,TA,984,1,0,3,5,384,Y,WD ,1.0,4.0,1968
+836,20,RL,Lvl,AllPub,Inside,Gtl,StoneBr,Norm,1Fam,8,4,4.0,GLQ,1814,Ex,1826,1,0,4,7,758,Y,New,2.0,5.0,3640
+837,20,RL,Lvl,AllPub,Inside,Gtl,NAmes,Norm,1Fam,5,3,3.0,BLQ,864,Gd,1154,0,0,5,6,336,Y,WD ,1.5,4.5,2018
+838,20,RL,Lvl,AllPub,Inside,Gtl,CollgCr,Norm,1Fam,5,3,4.0,ALQ,971,TA,971,0,0,3,5,300,Y,WD ,1.5,4.5,1942
+839,20,RL,Lvl,AllPub,Inside,Gtl,NAmes,Norm,1Fam,5,3,3.0,BLQ,1051,TA,1051,1,0,3,6,264,Y,WD ,1.0,4.0,2102
+840,60,RL,Lvl,AllPub,Inside,Gtl,NWAmes,Norm,1Fam,7,3,3.0,ALQ,1165,Gd,2061,0,1,3,8,498,Y,COD,2.5,6.5,3226
+841,160,RL,Lvl,AllPub,Inside,Gtl,NridgHt,Norm,Twnhs,7,4,4.0,GLQ,764,Ex,1626,0,0,4,6,474,Y,WD ,2.0,4.0,2390
+842,40,RL,Low,AllPub,Inside,Sev,ClearCr,Norm,1Fam,7,4,4.0,GLQ,1332,TA,1524,2,0,4,4,586,Y,WD ,0.5,0.5,2856
+843,85,RL,Low,AllPub,Inside,Gtl,Edwards,Norm,1Fam,5,3,4.0,ALQ,936,Gd,936,1,0,3,4,384,Y,WD ,1.0,3.0,1872
+844,60,RL,Lvl,AllPub,Inside,Gtl,CollgCr,Norm,1Fam,6,3,4.0,GLQ,635,Ex,1308,1,0,4,6,497,Y,WD ,2.5,5.5,1943
+845,20,RL,Lvl,AllPub,Corner,Gtl,NWAmes,Norm,1Fam,6,3,4.0,ALQ,1295,Fa,1295,1,0,3,6,528,Y,WD ,1.5,4.5,2590
+846,20,RL,Lvl,AllPub,Inside,Gtl,NAmes,Pos,1Fam,7,3,4.0,GLQ,1947,TA,2207,1,0,3,7,576,Y,WD ,2.0,5.0,4154
+847,60,FV,Lvl,AllPub,Inside,Gtl,Somerst,Norm,1Fam,7,3,4.0,GLQ,900,Ex,1852,1,0,4,7,644,Y,New,2.5,5.5,2752
+848,160,RM,Lvl,AllPub,Inside,Gtl,Blueste,Norm,Twnhs,6,3,3.0,Unf,516,TA,1032,0,0,3,5,452,Y,WD ,1.0,3.0,1548
+849,80,RL,Lvl,AllPub,CulDSac,Gtl,CollgCr,Norm,1Fam,6,3,3.0,ALQ,995,TA,1282,0,1,3,6,672,Y,WD ,2.0,5.0,2277
+850,120,RM,Lvl,AllPub,FR2,Gtl,Mitchel,Norm,TwnhsE,6,3,5.0,GLQ,1204,Ex,1204,1,0,3,5,412,Y,WD ,2.0,4.0,2408
+851,20,RL,Lvl,AllPub,Inside,Gtl,NWAmes,Street,1Fam,6,3,3.0,Rec,1372,TA,1342,0,0,3,7,457,Y,WD ,2.0,5.0,2714
+852,20,RL,Lvl,AllPub,Inside,Gtl,NAmes,Norm,1Fam,6,3,3.0,BLQ,864,Ex,864,1,0,4,4,288,Y,WD ,1.0,3.0,1728
+853,90,RL,Lvl,AllPub,Corner,Gtl,NAmes,Norm,Duplex,5,3,4.0,GLQ,943,TA,943,1,0,3,4,600,Y,WD ,1.0,3.0,1886
+854,50,RL,Lvl,AllPub,Inside,Gtl,Edwards,Norm,1Fam,6,3,4.0,Unf,1163,Ex,1674,0,0,3,8,396,N,WD ,2.0,6.0,2837
+855,50,RM,Lvl,AllPub,Corner,Gtl,OldTown,Norm,1Fam,3,4,2.0,Unf,840,Gd,1605,0,0,3,8,379,Y,WD ,2.0,5.0,2445
+856,120,RL,Lvl,AllPub,Corner,Gtl,StoneBr,Norm,1Fam,8,3,4.0,GLQ,1418,Ex,1478,1,0,3,5,495,Y,WD ,2.0,4.0,2896
+857,180,RM,Lvl,AllPub,Inside,Gtl,MeadowV,Norm,Twnhs,4,3,4.0,GLQ,630,TA,630,1,0,4,3,286,Y,WD ,1.0,2.0,1260
+858,60,RL,Lvl,AllPub,Inside,Gtl,CollgCr,Norm,1Fam,7,4,4.0,Unf,840,Ex,1668,0,0,4,8,500,Y,WD ,2.5,5.5,2508
+859,20,RL,Lvl,AllPub,Corner,Gtl,Mitchel,Norm,1Fam,5,3,3.0,ALQ,833,Ex,833,1,0,3,5,0,Y,WD ,1.0,4.0,1666
+860,20,RL,Lvl,AllPub,Inside,Gtl,NridgHt,Norm,1Fam,9,4,5.0,GLQ,1896,Ex,1944,1,0,5,8,708,Y,WD ,2.0,5.0,3840
+861,120,RH,Lvl,AllPub,Inside,Gtl,NAmes,Norm,TwnhsE,7,3,4.0,GLQ,723,Ex,767,1,0,3,4,367,Y,WD ,1.0,2.0,1490
+862,160,RM,Lvl,AllPub,Inside,Gtl,BrDale,Norm,TwnhsE,5,3,3.0,LwQ,765,TA,1365,0,0,3,7,440,Y,WD ,1.5,4.5,2130
+863,20,RL,Lvl,AllPub,Inside,Gtl,NAmes,Norm,1Fam,5,3,3.0,ALQ,1313,TA,1313,1,0,4,6,610,Y,WD ,1.5,4.5,2626
+864,90,RL,Lvl,AllPub,Inside,Gtl,SawyerW,Street,Duplex,5,3,4.0,GLQ,1094,TA,1229,2,0,4,6,672,Y,WD ,1.0,3.0,2323
+865,60,RL,Lvl,AllPub,Inside,Gtl,CollgCr,Norm,1Fam,7,4,4.0,Unf,840,Ex,1725,0,0,4,6,550,Y,WD ,2.5,5.5,2565
+866,20,RL,Lvl,AllPub,Inside,Gtl,Timber,Norm,1Fam,6,4,5.0,Unf,1491,Ex,1491,0,0,3,7,571,Y,WD ,2.0,5.0,2982
+867,160,RL,Lvl,AllPub,CulDSac,Gtl,StoneBr,Norm,TwnhsE,7,4,4.0,GLQ,1190,Gd,2090,1,0,4,6,577,Y,WD ,2.0,5.0,3280
+868,90,RL,Lvl,AllPub,Inside,Gtl,Mitchel,Norm,Duplex,5,3,3.0,Unf,1216,Gd,2432,0,0,3,10,616,Y,WD ,5.0,9.0,3648
+869,20,RL,Low,AllPub,Inside,Mod,ClearCr,Norm,1Fam,5,3,3.0,Rec,1624,Fa,1582,0,1,3,7,390,N,WD ,2.0,6.0,3206
+870,20,RL,Lvl,AllPub,Corner,Gtl,Gilbert,Norm,1Fam,7,4,4.0,GLQ,1530,Ex,1530,1,0,4,7,630,Y,WD ,2.0,5.0,3060
+871,20,RL,Lvl,AllPub,Inside,Gtl,StoneBr,Norm,1Fam,8,4,5.0,Unf,2046,Ex,2046,0,0,4,7,834,Y,New,2.5,5.5,4092
+872,20,RL,Lvl,AllPub,Inside,Gtl,CollgCr,Norm,1Fam,7,4,4.0,GLQ,1390,Ex,1390,1,0,4,7,545,Y,WD ,2.0,5.0,2780
+873,60,RL,Lvl,AllPub,Inside,Gtl,NWAmes,Pos,1Fam,6,3,3.0,ALQ,1084,TA,1877,1,0,3,8,488,Y,WD ,2.5,6.5,2961
+874,60,RL,Lvl,AllPub,Inside,Gtl,NAmes,Norm,1Fam,6,4,3.0,BLQ,1104,Ex,1988,0,0,4,9,480,Y,WD ,2.5,6.5,3092
+875,20,RL,Lvl,AllPub,Inside,Gtl,Sawyer,Street,1Fam,5,3,3.0,BLQ,952,Ex,1211,0,0,3,5,322,Y,WD ,1.0,4.0,2163
+876,20,RL,Lvl,AllPub,FR2,Gtl,NAmes,Norm,1Fam,4,3,3.0,ALQ,864,TA,864,0,0,3,5,528,Y,WD ,1.0,4.0,1728
+877,20,RL,Lvl,AllPub,Corner,Gtl,NAmes,Norm,1Fam,5,3,3.0,BLQ,923,TA,925,1,0,3,5,390,Y,WD ,1.0,4.0,1848
